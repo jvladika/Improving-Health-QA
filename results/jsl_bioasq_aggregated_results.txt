@@ -1,0 +1,3726 @@
+Is the protein Papilin secreted?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.25077094 0.70512934 0.04409972]
+
+Are long non coding RNAs spliced?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.25384848 0.71733369 0.02881782]
+
+Is RANKL secreted from the cells?
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 24}
+Mean: [0.35984702 0.59655943 0.04359355]
+
+Does metformin interfere thyroxine absorption?
+True label: no
+Verdicts: {'SUP': 78, 'REF': 22}
+Mean: [0.33420873 0.62095167 0.0448396 ]
+
+Has Denosumab (Prolia) been approved by FDA?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 30}
+Mean: [0.37696248 0.567631   0.05540651]
+
+Is the monoclonal antibody Trastuzumab (Herceptin) of potential use in the treatment of prostate cancer?
+True label: yes
+Verdicts: {'SUP': 58, 'REF': 42}
+Mean: [0.48301786 0.48320715 0.033775  ]
+
+Are transcription and splicing connected?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 7}
+Mean: [0.27048612 0.7063849  0.02312899]
+
+Is Alu hypomethylation associated with breast cancer?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 18}
+Mean: [0.30033385 0.66208463 0.03758152]
+
+Proteomic analyses need prior knowledge of the organism complete genome. Is the complete genome of the bacteria of the genus Arthrobacter available?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.19879938 0.7797152  0.02148542]
+
+Do mutations of AKT1 occur in meningiomas?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.29672227 0.66192637 0.04135136]
+
+Does physical activity influence gut hormones?
+True label: yes
+Verdicts: {'SUP': 62, 'REF': 38}
+Mean: [0.42513406 0.54036809 0.03449786]
+
+Is irritable bowel syndrome more common in women with endometriosis?
+True label: yes
+Verdicts: {'SUP': 65, 'REF': 35}
+Mean: [0.40608213 0.54622353 0.04769434]
+
+Does BNP increase after intensive exercise in athletes?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 28}
+Mean: [0.34671449 0.57433943 0.07894608]
+
+Are there web based self management strategies for chronic pain ?
+True label: yes
+Verdicts: {'SUP': 59, 'REF': 41}
+Mean: [0.48980837 0.48276464 0.02742699]
+
+Is Weaver syndrome similar to Sotos?
+True label: yes
+Verdicts: {'SUP': 99, 'REF': 1}
+Mean: [0.19577109 0.73329736 0.07093155]
+
+Are ultraconserved elements often transcribed?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.26580493 0.70699079 0.02720428]
+
+Is peripheral neuroepithelioma related to Ewing sarcoma?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.2842116  0.66340416 0.05238425]
+
+Is c-met involved in the activation of the Akt pathway?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 20}
+Mean: [0.37646822 0.59466153 0.02887025]
+
+Is pregnancy an additional risk during during H1N1 infection?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 21}
+Mean: [0.32641902 0.63218493 0.04139605]
+
+Are long non coding RNAs as conserved in sequence as protein coding genes?
+True label: no
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.2378783  0.73884666 0.02327504]
+
+Is TENS machine effective in pain?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 24}
+Mean: [0.39281775 0.54867788 0.05850436]
+
+Is there any algorithm for enhancer identification from chromatin state?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.22794772 0.74613542 0.02591686]
+
+Are transcribed ultraconserved regions involved in cancer?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.29040068 0.67737699 0.03222232]
+
+Do patients with Pendred syndrome present congenital deafness?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.23189089 0.7096514  0.05845772]
+
+Is CD56 useful in Ewing sarcoma prognosis?
+True label: yes
+Verdicts: {'SUP': 71, 'REF': 29}
+Mean: [0.36590709 0.57983439 0.05425853]
+
+Are there any urine biomarkers for chronic kidney disease?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 28}
+Mean: [0.32795033 0.59996069 0.07208898]
+
+Is valproic acid effective for glioblastoma treatment?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 23}
+Mean: [0.32993119 0.63517623 0.03489258]
+
+Can Levoxyl (levothyroxine sodium) cause insomnia?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 19}
+Mean: [0.2944224  0.65365276 0.05192484]
+
+Is fatigue prevalent in patients receiving treatment for glioblastoma?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 24}
+Mean: [0.31255489 0.64202933 0.04541578]
+
+Have Quantitative Trait Loci affecting splicing (splicing QTLs) been linked to disease?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.32120404 0.66088768 0.01790828]
+
+Does the CTCF protein co-localize with cohesin?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.34816344 0.62321319 0.02862338]
+
+Are stress granules involved in the pathogenesis of Amyotrophic Lateral Sclerosis?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.2862599 0.6771518 0.0365883]
+
+Does TGF-beta play a role in cardiac regeneration after myocardial infarction?
+True label: yes
+Verdicts: {'SUP': 60, 'REF': 40}
+Mean: [0.4700183 0.4988697 0.031112 ]
+
+Is DITPA a thyroid hormone analog utilized in experimental and clinical studies
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 24}
+Mean: [0.33441718 0.62445968 0.04112315]
+
+Is MammaPrint cleared by the United States Food and Drug Administration? 
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 21}
+Mean: [0.31791666 0.63979394 0.0422894 ]
+
+Is amantadine effective for treatment of disorders conciousness?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 18}
+Mean: [0.2893997  0.65528027 0.05532002]
+
+Is GAGA associated with nucleosome-free regions (NFR)?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.25041719 0.71740789 0.03217492]
+
+Is amiodarone a class I anti-arrhythmic drug?
+True label: no
+Verdicts: {'SUP': 77, 'REF': 23}
+Mean: [0.33004962 0.62480601 0.04514438]
+
+Is SLC22A3 expressed in the brain?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.3045222  0.66031736 0.03516044]
+
+Has the protein TIEG1 been associated with apoptosis?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 22}
+Mean: [0.33071146 0.62361098 0.04567756]
+
+Is PTEN involved in follicular thyroid carcinoma?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 30}
+Mean: [0.39118155 0.55600233 0.05281612]
+
+Does strenuous physical activity affect thyroid hormone metabolism?
+True label: yes
+Verdicts: {'SUP': 71, 'REF': 29}
+Mean: [0.38520919 0.57151269 0.04327811]
+
+Is the gene MAOA epigenetically modified by methylation?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 18}
+Mean: [0.32845585 0.63608513 0.03545902]
+
+Is glycyl-tRNA synthetase gene involved in the development of Charcot-Marie-Tooth disease?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.22124796 0.72515434 0.0535977 ]
+
+Is there any software for automated analysis of FISH images?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.2624028  0.71950064 0.01809656]
+
+Is there an increased risk for cancer in Dyskeratosis Congenita?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.25435311 0.6911985  0.0544484 ]
+
+Does MicroRNA-21 (miR-21) contribute to cardiovascular disease?
+True label: yes
+Verdicts: {'SUP': 57, 'REF': 43}
+Mean: [0.48240263 0.48346705 0.03413031]
+
+Are there any statistical methods for normalizing and identifying differential regions in histone modification ChIP-seq data?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.23590384 0.7458571  0.01823906]
+
+Is CD84 genetically associated with arthritis?
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 23}
+Mean: [0.33146286 0.63580082 0.03273633]
+
+Are there any specific antidotes for rivaroxaban?
+True label: no
+Verdicts: {'SUP': 68, 'REF': 30}
+Mean: [0.372809   0.55372214 0.07346886]
+
+Is cytisine superior to nicotine replacement therapy for smoking cessation?
+True label: yes
+Verdicts: {'SUP': 56, 'REF': 40}
+Mean: [0.4458718  0.49145939 0.06266881]
+
+Is the abnormal dosage of ultraconserved elements disfavored in cancer cells?
+True label: no
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.28243143 0.68315522 0.03441335]
+
+Does thyroid hormone regulate calcium transient in the myocardium? 
+True label: yes
+Verdicts: {'SUP': 78, 'REF': 22}
+Mean: [0.3047389  0.65372714 0.04153396]
+
+Are proteasome inhibitors good candidates for treatment of leukemia and solid tumors?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 22}
+Mean: [0.32748101 0.63704651 0.03547248]
+
+Is there any link between CTF4 and CTF18 during sister chromatid cohesion?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 12}
+Mean: [0.29695218 0.65618303 0.04686479]
+
+Are thyroid hormone receptor alpha1 mutations implicated in thyroid hormone resistance syndrome?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 8}
+Mean: [0.23482297 0.70787798 0.05729905]
+
+Does administration of triiodothyronine improve outcome following coronary artery bypass grafting?
+True label: no
+Verdicts: {'SUP': 61, 'REF': 39}
+Mean: [0.44668375 0.49870557 0.05461069]
+
+Is long QT syndrome a cause for sudden cardiac death in athletes?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 8}
+Mean: [0.22231812 0.73708598 0.04059589]
+
+Is protein M3/6 a dual specificity phosphatase?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.29244093 0.67216765 0.03539143]
+
+Are there focused databases from which you can retrieve gene expression data on renal disease?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 20}
+Mean: [0.29688337 0.68481861 0.01829802]
+
+Are there any DNMT3 proteins present in plants?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.23752935 0.73125633 0.03121432]
+
+Has vitamin D has been shown to reduce incidence of falls in older people in clinical trials?
+True label: yes
+Verdicts: {'SUP': 58, 'REF': 39}
+Mean: [0.40779857 0.51073154 0.08146988]
+
+Has depression been shown to be a predictor of frailty?
+True label: yes
+Verdicts: {'SUP': 57, 'REF': 41}
+Mean: [0.44389014 0.50414046 0.0519694 ]
+
+Is there any association between Jarid2 and miR-155 in Th17 cells?
+True label: yes
+Verdicts: {'SUP': 60, 'REF': 40}
+Mean: [0.45714355 0.5118238  0.03103266]
+
+Is it safe to take isotretinoin during pregnancy?
+True label: no
+Verdicts: {'SUP': 79, 'REF': 21}
+Mean: [0.30375896 0.63762458 0.05861646]
+
+Can DNA intercalators function as topoisomerase inhibitors?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.27653851 0.68063713 0.04282436]
+
+Do orphan and gene related CpG islands follow power-law-like distributions?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 6}
+Mean: [0.24411814 0.72218067 0.03370119]
+
+Can valproic acid act as an activator of AMPK?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 20}
+Mean: [0.32826931 0.64058087 0.03114981]
+
+Is the Drosophila Translational Control Element (TCE) involved in spermatogenesis?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 11}
+Mean: [0.28691383 0.67710647 0.03597971]
+
+Is low T3 syndrome a prognostic marker in patients with renal insufficiency?
+True label: yes
+Verdicts: {'SUP': 59, 'REF': 40}
+Mean: [0.43443899 0.51661412 0.04894689]
+
+Does burning mouth syndrome preferentially affect post-mepopausal women?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 25}
+Mean: [0.31470534 0.61841142 0.06688323]
+
+Can life style changes reduce oxidative stress
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 31}
+Mean: [0.42587356 0.53885664 0.0352698 ]
+
+Is oxidative stress affected by FOXO expression?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 30}
+Mean: [0.3945241  0.57554956 0.02992635]
+
+Is the Dictyostelium discoideum proteome known?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.21386793 0.76255599 0.02357607]
+
+Is single-cell analysis (SCA) possible in proteomics?
+True label: no
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.21050274 0.77112342 0.01837385]
+
+Is shotgun lipidomics the direct infusion of a lipid sample into a mass spectrometer?
+True label: yes
+Verdicts: {'SUP': 96, 'REF': 4}
+Mean: [0.18144798 0.79622672 0.0223253 ]
+
+Is apixaban effective for treatment of acute venous thromboembolism?
+True label: yes
+Verdicts: {'SUP': 61, 'REF': 37}
+Mean: [0.41746939 0.52001496 0.06251566]
+
+Is the tricarboxylic acid (TCA) cycle affected in inflammation?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.29461653 0.67904036 0.02634311]
+
+Are reduced-nicotine cigarettes effective for smoking cessation?
+True label: yes
+Verdicts: {'SUP': 51, 'REF': 49}
+Mean: [0.47831538 0.48286099 0.03882363]
+
+Is the Wnt protein modified by notum?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 10}
+Mean: [0.2916873  0.67363435 0.03467835]
+
+Is ospemifene effective for treatment of dyspareunia?
+True label: yes
+Verdicts: {'SUP': 66, 'REF': 33}
+Mean: [0.43757214 0.50418759 0.05824027]
+
+Is pregabalin effective for treatment of patients with restless leg syndrome?
+True label: yes
+Verdicts: {'SUP': 54, 'REF': 44}
+Mean: [0.47876638 0.46930927 0.05192435]
+
+Can zinc finger nucleases be used to combat disease?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.36742972 0.61566759 0.01690269]
+
+Is RET the major gene involved in Hirschsprung disease?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.25655451 0.7023716  0.04107389]
+
+is intense physical activity associated with longevity ?
+True label: yes
+Verdicts: {'SUP': 62, 'REF': 38}
+Mean: [0.44788159 0.52340626 0.02871214]
+
+Are cyclophilins proteins that bind to prolines?
+True label: yes
+Verdicts: {'SUP': 97, 'REF': 3}
+Mean: [0.18901322 0.77074013 0.04024665]
+
+Can a given genotype exhibit opposite fitness effects (beneficial and detrimental) within the same environment?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.3155476  0.66323167 0.02122072]
+
+Has the protein SETMAR (Metnase) a transposase domain?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.25955922 0.71381129 0.02662949]
+
+Is alternative splicing of apoptotic genes playing a role in the response to DNA or mitochondrial damage?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.28409058 0.68294539 0.03296403]
+
+Is nucleosome eviction ATP-dependent?
+True label: yes
+Verdicts: {'SUP': 97, 'REF': 2}
+Mean: [0.21861541 0.74417976 0.03720482]
+
+Is TREM2 associated with Alzheimer's disease in humans?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 19}
+Mean: [0.32466396 0.61377042 0.06156561]
+
+Have mutations in the Polycomb group been found in human diseases?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.29234763 0.66921493 0.03843744]
+
+Is microRNA(miRNA) 29 involved in post-ischemic cardiac remodeling?
+True label: yes
+Verdicts: {'SUP': 60, 'REF': 40}
+Mean: [0.46307573 0.50271794 0.03420633]
+
+Is exonuclease Xrn1 a component of the P-bodies?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.26770628 0.7028256  0.02946812]
+
+Can sorafenib activate AMPK?
+True label: yes
+Verdicts: {'SUP': 56, 'REF': 43}
+Mean: [0.46841222 0.49191739 0.03967039]
+
+Is Vortioxetine effective for treatment of depression?
+True label: yes
+Verdicts: {'SUP': 73, 'REF': 27}
+Mean: [0.35350858 0.60055057 0.04594084]
+
+Is exome sequencing efficient for the detection of germline mutations?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 13}
+Mean: [0.24542958 0.73293363 0.02163679]
+
+Is it feasible to determine the complete proteome of yeast?
+True label: yes
+Verdicts: {'SUP': 97, 'REF': 3}
+Mean: [0.15903678 0.82420737 0.01675584]
+
+Are circRNAs associated with diseases and traits?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 25}
+Mean: [0.3477545  0.62427166 0.02797384]
+
+Could the Menzerath-Altmann law be proved mathematically trivial in genomes?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.28575318 0.68695077 0.02729605]
+
+Are there studies representing the involvement of Notch mutations in neurodegenerative diseases such as Down syndrome, Pick's and Prion's disease, and cadasil syndrome?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.2865273  0.67595088 0.03752182]
+
+Are there any functional differences between Mfd and its human Cocaine syndrome protein B (CSB) homolog?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 18}
+Mean: [0.31625199 0.63244903 0.05129897]
+
+Is the yeast Μac1 transcription factor induced upon copper deficiency?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 8}
+Mean: [0.26304337 0.70351368 0.03344294]
+
+Have thyronamines  effects on fat tissue?
+True label: no
+Verdicts: {'SUP': 70, 'REF': 29}
+Mean: [0.36740988 0.58405113 0.04853899]
+
+Is there a package in R/bioconductor for classification of alternative splicing?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.19988505 0.78659912 0.01351584]
+
+Is alemtuzumab effective for remission induction in patients diagnosed with T-cell prolymphocytic leukemia?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 13}
+Mean: [0.24428184 0.69538541 0.06033275]
+
+Is there an association between TERT promoter mutation and survival of glioblastoma patients?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 24}
+Mean: [0.33025276 0.61361533 0.05613191]
+
+Is bapineuzumab effective for treatment of patients with Alzheimer's disease?
+True label: no
+Verdicts: {'SUP': 68, 'REF': 30}
+Mean: [0.36201808 0.59018999 0.04779193]
+
+Is intense physical activity associated with longevity?
+True label: yes
+Verdicts: {'SUP': 61, 'REF': 39}
+Mean: [0.45747797 0.51400985 0.02851217]
+
+Is desmin an intermediate filament protein involved in Dilated Cardiomyopathy (DCM)?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 23}
+Mean: [0.34405539 0.61239158 0.04355303]
+
+Is lambrolizumab effective for treatment of patients with melanoma ?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 31}
+Mean: [0.37479438 0.57906497 0.04614065]
+
+Is cadasil syndrome a hereditary disease?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 18}
+Mean: [0.29871259 0.64265047 0.05863693]
+
+Is nintedanib effective for Idiopathic Pulmonary Fibrosis?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 25}
+Mean: [0.33550091 0.62879065 0.03570844]
+
+Is pesticide exposure associated with polyneuropathy?
+True label: yes
+Verdicts: {'SUP': 72, 'REF': 26}
+Mean: [0.35272469 0.60039464 0.04688067]
+
+Is there an association between borna virus and brain tumor?
+True label: no
+Verdicts: {'SUP': 87, 'REF': 12}
+Mean: [0.26814063 0.68715784 0.04470152]
+
+Does PU.1 (SPI1) affect NF-kB binding?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.28408423 0.68347996 0.03243581]
+
+Does the majority of the mitochondrial genomes abide to the second parity rule (PR2)?
+True label: no
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.28642052 0.67995595 0.03362353]
+
+Is there an association between bruxism and reflux?
+True label: yes
+Verdicts: {'SUP': 66, 'REF': 34}
+Mean: [0.41469343 0.52779805 0.05750852]
+
+Is paroxetine effective for treatment of premenstrual dysphoric disorder?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 26}
+Mean: [0.36512147 0.57952712 0.05535142]
+
+Is endostatin a proangiogenic factor?
+True label: no
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.33022808 0.62189764 0.04787428]
+
+Can botulism poisoning of a pregnant woman harm her fetus?
+True label: no
+Verdicts: {'SUP': 78, 'REF': 22}
+Mean: [0.32080186 0.61351362 0.06568453]
+
+Does a linker histone exist in the yeast genome?
+True label: yes
+Verdicts: {'SUP': 97, 'REF': 3}
+Mean: [0.21774684 0.75374744 0.02850571]
+
+Can protein coding exons originate from ALU sequences?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.25218823 0.72061518 0.02719659]
+
+Is there evidence that tomato juice lowers cholesterol levels?
+True label: yes
+Verdicts: {'SUP': 58, 'REF': 41}
+Mean: [0.46185811 0.50234286 0.03579903]
+
+Are there transposon-free regions in mammalian genomes?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.25346386 0.72522482 0.02131132]
+
+Are messenger RNA molecules epigenetically methylated?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.30323965 0.66947306 0.0272873 ]
+
+Have gnotobiotic animal models been used for the study of bowel disease?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.24527086 0.7341856  0.02054354]
+
+Is invasion and metastasis one of the hallmarks of cancer?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.23299771 0.72740435 0.03959795]
+
+Is it possible to detect survivin protein expression in normal human adult tissues?
+True label: no
+Verdicts: {'SUP': 72, 'REF': 28}
+Mean: [0.41875998 0.53298213 0.0482579 ]
+
+Is progesterone effective for treatment of patients with traumatic brain injury based on clinical trial data?
+True label: no
+Verdicts: {'SUP': 76, 'REF': 22}
+Mean: [0.30961135 0.63821997 0.05216868]
+
+Is there a role for the cylindromatosis tumor suppressor (CYLD) in lung cancer?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 30}
+Mean: [0.3896029  0.55060101 0.05979609]
+
+Can we detect DNA strand asymmetries using dinucleotide relative abundance "genomic signatures"?
+True label: no
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.257503   0.71437341 0.02812359]
+
+Is there any relationship between histone ubiquitylation and splicing?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.26493354 0.71395729 0.02110918]
+
+Can SUMO affect calcium homeostasis?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 15}
+Mean: [0.27938622 0.67332562 0.04728817]
+
+Have mutations in the GARS gene been identified to cause Charcot-Marie-Tooth Disease Type 2D (CMT2D)?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.25599164 0.68678852 0.05721983]
+
+Does melanoma  occur in people of African origin ?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 9}
+Mean: [0.2124487  0.73374625 0.05380505]
+
+Are people with blood group O protected against severe Malaria?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 9}
+Mean: [0.23406277 0.716245   0.04969223]
+
+Is there a crystal structure of the full-length of the flaviviridae NS5(Methyltransferase - RNA depended RNA Polymerase) ?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.27246206 0.69482397 0.03271397]
+
+Can venlafaxine block NET and SERT?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 30}
+Mean: [0.38457391 0.55835009 0.057076  ]
+
+Can vitamin B1 deficiency cause encephalopathy?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.28432057 0.65582805 0.05985138]
+
+Are epigenetic modifications implicated in cardiovascular development and disease?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 13}
+Mean: [0.28123074 0.69020903 0.02856023]
+
+Can exosomes be detected in urine?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.28347508 0.69449415 0.02203077]
+
+Is Kanzaki disease associated with deficiency in alpha-N-acetylgalactosaminidase?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.22206731 0.72461015 0.05332254]
+
+Is Mycobacterium avium less susceptible to antibiotics than Mycobacterium tuberculosis?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.229699 0.737512 0.032789]
+
+Are there conserved noncoding elements identified between genomes of human and teleosts?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.23832159 0.73818065 0.02349777]
+
+Does cortical spreading depression appear in ischemic penumbra following ischemic stroke?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 18}
+Mean: [0.32047864 0.62401961 0.05550175]
+
+Is phospholamban a regulatory/inhibitory protein of the Ca ATPase SERCA?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.26498083 0.70544365 0.02957553]
+
+Is Alpers disease inherited in an autosomal recessive mode?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.25570303 0.69038657 0.0539104 ]
+
+Is vemurafenib effective for hairy-cell leukemia?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 29}
+Mean: [0.38219109 0.56977017 0.04803873]
+
+Is there an association between TERT promoter mutation and survival of glioma patients?
+True label: yes
+Verdicts: {'SUP': 73, 'REF': 26}
+Mean: [0.3434212  0.59840105 0.05817775]
+
+Does ziconotide bind to N-type calcium channels?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.30408283 0.66139368 0.03452349]
+
+Is stop codon bypass possible?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.26128017 0.71011634 0.02860349]
+
+Is the protein β1-integrin recycled?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 20}
+Mean: [0.31931367 0.64456153 0.0361248 ]
+
+Are BBS mutations involved in syndromic Hirschsprung disease?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.20242272 0.75163633 0.04594094]
+
+Is there any software for automated analysis of immuno-histochemistry images?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.28897996 0.69226386 0.01875618]
+
+Is TALEN being used on stem cells?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 20}
+Mean: [0.3767113  0.59665381 0.0266349 ]
+
+Is there an association between bruxism and reflux
+True label: yes
+Verdicts: {'SUP': 65, 'REF': 35}
+Mean: [0.42248215 0.51786498 0.05965287]
+
+Can a peptide aptamer be used as protein inhibitor?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.27317121 0.70776613 0.01906266]
+
+Are integrins part of the extracellular matrix?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.34230312 0.62161613 0.03608075]
+
+Is Calcium homeostasis important in cardiac physiology and pathophysiology?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.27519972 0.69890585 0.02589443]
+
+Is the gene DUX4 epigenetically regulated in somatic cells?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 22}
+Mean: [0.36300992 0.59510281 0.04188727]
+
+Have hESC been tested for the treatment of age-related macular degeneration?
+True label: yes
+Verdicts: {'SUP': 67, 'REF': 33}
+Mean: [0.45927268 0.51660289 0.02412444]
+
+Does d-tubocurarine (d-TC) induces irreversible inhibition of nicotinic acetylcholine receptor (nAChR) at the neuromuscular junction?
+True label: no
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.27890866 0.67605588 0.04503547]
+
+Is zyxin a focal adhesion protein?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 14}
+Mean: [0.27847619 0.68868759 0.03283622]
+
+Could DNA (cytosine-5-)-methyltransferases serve as tumour markers?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 23}
+Mean: [0.34156824 0.62659906 0.0318327 ]
+
+Is phospholamban phosphorylated by Protein kinase A?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 11}
+Mean: [0.27816552 0.68328468 0.0385498 ]
+
+Are there telemedicine applications for chronic pain management?
+True label: yes
+Verdicts: {'SUP': 72, 'REF': 28}
+Mean: [0.3516618  0.61620718 0.03213103]
+
+Is paramyxovirus involved in human subacute thyroiditis?
+True label: no
+Verdicts: {'SUP': 80, 'REF': 20}
+Mean: [0.30952126 0.6448458  0.04563294]
+
+Is there any link between the aurora B kinase and the polycomb protein ring1B?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.30831573 0.66482408 0.0268602 ]
+
+Is CD99 encoded by MIC2 gene?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.28216894 0.6776944  0.04013666]
+
+Has the fungus Ashbya gossypii got many nuclei that share cytoplasm?
+True label: yes
+Verdicts: {'SUP': 97, 'REF': 3}
+Mean: [0.2101097  0.75635117 0.03353913]
+
+Is microRNA(miRNA) 30 involved in post-ischemic cardiac remodeling?
+True label: yes
+Verdicts: {'SUP': 62, 'REF': 38}
+Mean: [0.45877525 0.50914248 0.03208227]
+
+Is statin use associated with improved outcomes after aneurysmal subarachnoid hemorrhage?
+True label: yes
+Verdicts: {'SUP': 59, 'REF': 38}
+Mean: [0.41805819 0.5081995  0.07374229]
+
+Does molindone affect body weight?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 18}
+Mean: [0.30016124 0.63296596 0.0668728 ]
+
+Is the SDHAF2 gene  encoding a protein necessary for flavination of SDHA?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.24506411 0.71854547 0.03639042]
+
+Could Arimidex (anastrozole) cause hot flashes?
+True label: yes
+Verdicts: {'SUP': 67, 'REF': 28}
+Mean: [0.37767686 0.547314   0.07500914]
+
+Are Alu elements transcribed?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.27486445 0.70237651 0.02275904]
+
+Are chromomethylases present in animal genomes?
+True label: no
+Verdicts: {'SUP': 97, 'REF': 3}
+Mean: [0.22379431 0.75050098 0.02570472]
+
+Is low T3 syndrome related with high BNP in cardiac patients?
+True label: yes
+Verdicts: {'SUP': 59, 'REF': 40}
+Mean: [0.45391838 0.49075486 0.05532676]
+
+Is delayed enhancement documented in patients with non-ischemic dilated cardiomyopathy?
+True label: yes
+Verdicts: {'SUP': 44, 'REF': 56}
+Mean: [0.54907055 0.41746838 0.03346107]
+
+Has overexpression of sirtuins been reported to increase lifespan in budding yeast (Saccharomyces cerevisiae)?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.23960999 0.73388557 0.02650444]
+
+Is TREM2 associated with Alzheimer's disease?
+True label: yes
+Verdicts: {'SUP': 78, 'REF': 21}
+Mean: [0.32822284 0.61755124 0.05422591]
+
+Does the protein mTOR regulate autophagy?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 22}
+Mean: [0.34251399 0.60904058 0.04844543]
+
+Has proteomics been used in the study of Pick's disease?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 10}
+Mean: [0.23875983 0.71667342 0.04456674]
+
+Are there any urine biomarkers for bladder cancer diagnosis?
+True label: yes
+Verdicts: {'SUP': 65, 'REF': 35}
+Mean: [0.3897745  0.57762603 0.03259948]
+
+Is signal transducer and activator of transcription-3 (STAT3) critical for tumor angiogenesis progression?
+True label: yes
+Verdicts: {'SUP': 65, 'REF': 35}
+Mean: [0.43714088 0.52789174 0.03496739]
+
+Is sumoylation implicated in myogenesis?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.26232037 0.70656205 0.03111757]
+
+Is the Miller-Fisher syndrome considered to be a variant of Guillain-Barré?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.2401867  0.70270745 0.05710585]
+
+Is Ctf4 involved in sister chromatid cohesion establishment?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.30986808 0.64919475 0.04093718]
+
+Are retroviruses used for gene therapy?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.29911093 0.68184044 0.01904863]
+
+Do lincRNAs play a role in human cancer?
+True label: yes
+Verdicts: {'SUP': 71, 'REF': 28}
+Mean: [0.39604537 0.56786336 0.03609127]
+
+Is there a phylogenetic analysis for HIV?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.24699556 0.73118863 0.02181581]
+
+Are there randomised controlled trials on sevoflurane?
+True label: yes
+Verdicts: {'SUP': 62, 'REF': 32}
+Mean: [0.37870513 0.52794759 0.09334728]
+
+Can FOXOs modulate longevity?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.29435209 0.67756904 0.02807887]
+
+Is there an association between FGFR3 mutation and plagiocephaly?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.24704919 0.70013599 0.05281482]
+
+Are CD44 variants (CD44v) associated with poor prognosis of metastasis?
+True label: yes
+Verdicts: {'SUP': 73, 'REF': 27}
+Mean: [0.36948959 0.5702546  0.06025581]
+
+Is Bladder training an effective method to treat  urge incontinence ?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 23}
+Mean: [0.36662374 0.56471992 0.06865635]
+
+Do proton pump inhibitors affect thyroxine absorption?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 17}
+Mean: [0.27930025 0.65230857 0.06839117]
+
+Is PER3 required for CHK2 activation in human cells?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 20}
+Mean: [0.32233825 0.64362769 0.03403406]
+
+Are there any clinical trials of the effect of evening primrose oil on postmenopausal symptoms ?
+True label: yes
+Verdicts: {'SUP': 64, 'REF': 33}
+Mean: [0.38955353 0.54249201 0.06795447]
+
+Is acid alpha-glucosidase the enzyme that causes Pompe disease when mutant?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 13}
+Mean: [0.26379861 0.6864293  0.04977209]
+
+Is the optogenetics tool ChR2 light-sensitive?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 23}
+Mean: [0.37930962 0.59540452 0.02528586]
+
+Is the Prostate- Specific Antigen (PSA) test relevant only for prostate cancer?
+True label: no
+Verdicts: {'SUP': 82, 'REF': 18}
+Mean: [0.2893859  0.67273544 0.03787866]
+
+Is autism one of the characteristics of Moebius syndrome?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.22855389 0.72403018 0.04741594]
+
+Is Sarcolipin a regulatory/inhibitory protein of the Calcium ATPase SERCA?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.25911485 0.7070383  0.03384685]
+
+Is the circadian clock involved in ribosome biogenesis?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.28401163 0.69239009 0.02359828]
+
+Can mutations in Calmodulin cause ventricular fibrillation?
+True label: yes
+Verdicts: {'SUP': 67, 'REF': 30}
+Mean: [0.38098182 0.55795806 0.06106012]
+
+Is rivaroxaban metabolized in kidneys?
+True label: yes
+Verdicts: {'SUP': 64, 'REF': 34}
+Mean: [0.40551491 0.5377949  0.05669019]
+
+Is Hirschsprung disease one of the characteristics of the Mowat-Wilson syndrome?
+True label: yes
+Verdicts: {'SUP': 96, 'REF': 4}
+Mean: [0.21231728 0.73894711 0.0487356 ]
+
+Is PLK2 involved in alpha-synuclein phosphorylation in the nervous system?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 18}
+Mean: [0.31886412 0.64688805 0.03424783]
+
+Is insulin-like growth factor-I (IGF-I) able to affect tendon protein synthesis in classic Ehlers-Danlos syndrome patients?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 29}
+Mean: [0.41138697 0.54422473 0.04438831]
+
+Does GC content vary markedly within a given isochore?
+True label: no
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.23179313 0.74306141 0.02514546]
+
+Is tubulin acetylation involved in cell motility?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.29194559 0.67305809 0.03499631]
+
+Can PLN mutations lead to dilated cardiomyopathy?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 16}
+Mean: [0.30037132 0.63718502 0.06244367]
+
+Is corpus callosum involved in the Mowat–Wilson syndrome?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.31638922 0.6416434  0.04196738]
+
+Can NXY-059 be used for treatment of acute ischemic stroke patients?
+True label: no
+Verdicts: {'SUP': 75, 'REF': 23}
+Mean: [0.34511638 0.59994922 0.05493441]
+
+Is flibanserin effetive for Hypoactive Sexual Desire Disorder? 
+True label: yes
+Verdicts: {'SUP': 62, 'REF': 37}
+Mean: [0.42483893 0.52190794 0.05325312]
+
+Is recommended the use of perioperative treatment with thyroid hormone therapy in patients undergoing coronary artery bypass grafting?
+True label: no
+Verdicts: {'SUP': 70, 'REF': 30}
+Mean: [0.38004045 0.54298185 0.07697769]
+
+Is protein CXCR4 used as a prognostic marker of cancer?
+True label: yes
+Verdicts: {'SUP': 55, 'REF': 43}
+Mean: [0.48763458 0.47037993 0.04198549]
+
+Is transcapillary  albumin escape altered in diabetic patients?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 18}
+Mean: [0.30925882 0.63851604 0.05222515]
+
+Are conserved noncoding elements associated with developmental genes?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.23697184 0.74163105 0.02139711]
+
+Is myasthenia gravis associated with osteoporosis?
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 24}
+Mean: [0.35159904 0.60065865 0.04774231]
+
+Does a selective sweep increase genetic variation?
+True label: no
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.25875666 0.72186965 0.01937369]
+
+Is indicated the use of antioxidant supplements in patients at risk for coronary artery disease?
+True label: no
+Verdicts: {'SUP': 63, 'REF': 37}
+Mean: [0.44353852 0.51669033 0.03977115]
+
+Is there evidence to suggest that triiodothyronine has neuroprotective properties in traumatic brain injury?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 26}
+Mean: [0.37612703 0.58687505 0.03699792]
+
+Is Lysine-specific demethylase 1 (LSD1) a critical regulator of hematopoiesis?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.31838778 0.63569357 0.04591865]
+
+Is K-63 linked protein ubiquitination related to proteasomal degradation?
+True label: no
+Verdicts: {'SUP': 88, 'REF': 11}
+Mean: [0.25946783 0.71138774 0.02914442]
+
+Could transcription factors act as cell-cell signalling molecules?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.28659084 0.6920183  0.02139087]
+
+is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?
+True label: no
+Verdicts: {'SUP': 67, 'REF': 30}
+Mean: [0.38865782 0.54738558 0.06395661]
+
+Could Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)
+cause sudden cardiac death?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 17}
+Mean: [0.27998813 0.65373685 0.06627502]
+
+Are histone deacetylase (HDAC) inhibitors good candidates to control metastasis of solid tumors?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.27887125 0.68615352 0.03497523]
+
+Is muscle lim protein (MLP) involved in cardiomyopathies?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 13}
+Mean: [0.2807469  0.66946555 0.04978754]
+
+Have 5q35 microdeletions been implicated in Sotos syndrome development?
+True label: yes
+Verdicts: {'SUP': 96, 'REF': 4}
+Mean: [0.21738327 0.74299002 0.03962672]
+
+Is metabolic syndrome related with cardiovascular disease?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 32}
+Mean: [0.39252765 0.56930576 0.03816659]
+
+Is there any functional association during viral replication between flaviviridae viral RNA depended RNA polymerase and viral helicase?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.31257046 0.6656315  0.02179805]
+
+Are defects in recombination repair involved in carcinogenesis?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 24}
+Mean: [0.34826443 0.60335235 0.04838322]
+
+Are seizures among the neurological symptoms of incontinentia pigmenti?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.24629106 0.69448525 0.05922369]
+
+Is there a genome-wide technique for the detection of R-loop formation?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.28337404 0.68751605 0.0291099 ]
+
+Can bioprinting use human cells?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 25}
+Mean: [0.42103476 0.55724449 0.02172075]
+
+Is transcription-associated mutagenesis (TAM) related to gene expression levels?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.2880886  0.68170018 0.03021123]
+
+Is there a pharmacogenetic test for trastuzumab?
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 24}
+Mean: [0.32143621 0.64517776 0.03338603]
+
+Do carmustine wafers improve survival of glioblastoma patients?
+True label: yes
+Verdicts: {'SUP': 58, 'REF': 41}
+Mean: [0.43479857 0.51144011 0.05376132]
+
+Is Dicer part of the RISC loading complex?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.32704982 0.63349124 0.03945894]
+
+Is hypersensitivity to DNA crosslinking agents a hallmark of Fanconi anemia?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.22701195 0.72056555 0.0524225 ]
+
+Have C12orf65 mutations been associated with axonal neuropathy and optic atrophy?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.30058752 0.65063723 0.04877526]
+
+Are psammoma bodies characteristic to meningiomas?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 17}
+Mean: [0.30177416 0.64648522 0.05174062]
+
+Is cystatin C or cystatin 3 used as a biomarker of kidney function?
+True label: yes
+Verdicts: {'SUP': 59, 'REF': 28}
+Mean: [0.36557646 0.47332916 0.16109438]
+
+Can fetal aneuploidy be detected with non-invasive prenatal testing?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 25}
+Mean: [0.34603775 0.61325978 0.04070247]
+
+Is dichlorphenamide effective for periodic paralysis?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 15}
+Mean: [0.28499272 0.64971126 0.06529602]
+
+Is nivolumab used for treatment of Non–Small-Cell Lung Cancer?
+True label: yes
+Verdicts: {'SUP': 61, 'REF': 38}
+Mean: [0.42216191 0.53045869 0.04737941]
+
+Does  thyroid hormone receptor beta1 affect insulin secretion?
+True label: no
+Verdicts: {'SUP': 73, 'REF': 27}
+Mean: [0.36380158 0.60482511 0.03137331]
+
+Does replication timing affect the rate of somatic mutations?
+True label: yes
+Verdicts: {'SUP': 97, 'REF': 3}
+Mean: [0.20350978 0.7700676  0.02642262]
+
+Is NOD1 activated in inflammation?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 22}
+Mean: [0.3286128 0.6250044 0.0463828]
+
+Does the histidine-rich Ca-binding protein (HRC) interact with triadin?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.2550843  0.71678296 0.02813275]
+
+Does magnesium sulfate improve outcomes of subarachnoid hemorrhage patients?
+True label: no
+Verdicts: {'SUP': 66, 'REF': 31}
+Mean: [0.36690451 0.571479   0.06161649]
+
+Are there plasma membrane receptors for thyroid hormones?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 20}
+Mean: [0.31009888 0.65235238 0.03754873]
+
+Does Rad9 interact with Aft1 in S.cerevisiae?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.27265664 0.69841742 0.02892594]
+
+Are there any desmins present in plants?
+True label: no
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.22528799 0.74104312 0.03366889]
+
+Are viruses involved in the etiology of human subacute thyroiditis?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 18}
+Mean: [0.29837762 0.64863734 0.05298504]
+
+Is miR-126 involved in heart failure?
+True label: yes
+Verdicts: {'SUP': 65, 'REF': 34}
+Mean: [0.42247531 0.54445108 0.03307361]
+
+Does resveratrol reduce cardiac remodeling?
+True label: yes
+Verdicts: {'SUP': 55, 'REF': 45}
+Mean: [0.5058948  0.46922625 0.02487895]
+
+Is oxalate renal excretion increased after bariatric surgery?
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 22}
+Mean: [0.31824026 0.62805528 0.05370445]
+
+Is there a role for transcription factories in genome organization?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.26536083 0.71524163 0.01939755]
+
+Is the length of the poly(A) tail involved in human disease?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.24408952 0.72677008 0.0291404 ]
+
+Are patients with marfan syndrome at increased risk of arrhythmias?
+True label: yes
+Verdicts: {'SUP': 59, 'REF': 38}
+Mean: [0.42776126 0.51778186 0.05445687]
+
+Do selenoproteins and selenium play a role in prostate cancer prevention?
+True label: no
+Verdicts: {'SUP': 74, 'REF': 24}
+Mean: [0.34046985 0.60740938 0.05212077]
+
+Has protein citrullination been implicated in rheumatoid arthritis?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 25}
+Mean: [0.35034875 0.60969038 0.03996087]
+
+Do R-loops tend to form at sites of DNA replication?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.29684433 0.67035674 0.03279893]
+
+Is selenium deficiency involved in autoimmune thyroid disease?
+True label: yes
+Verdicts: {'SUP': 73, 'REF': 26}
+Mean: [0.35920739 0.58710772 0.05368489]
+
+Is it safe to use Abatacept during pregnancy?
+True label: no
+Verdicts: {'SUP': 86, 'REF': 13}
+Mean: [0.26907154 0.6672308  0.06369766]
+
+Is STAT3 involved in EIF2AK2-dependent suppression of autophagy?
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 24}
+Mean: [0.33593285 0.63117971 0.03288743]
+
+Are CTCF and BORIS involved in genome regulation and cancer?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.32007727 0.64451608 0.03540666]
+
+Are Sidekick proteins members of the immunoglobulin superfamily?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.22691379 0.7438892  0.02919701]
+
+Is there a relationship between junctin and ryanodine receptors?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 23}
+Mean: [0.35987673 0.60982574 0.03029753]
+
+Have mutations in the ZEB2 gene been found in any human syndrome?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 8}
+Mean: [0.2554575  0.69103603 0.05350647]
+
+Is JTV519 (K201) a potential drug for the prevention of arrhythmias?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 20}
+Mean: [0.30739596 0.64071177 0.05189226]
+
+Are the Fanconi anemia genes a part of the same signalling pathway?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.22525781 0.73117087 0.04357132]
+
+Are there clinical trials using stem cells for the treatment of cardiac disease?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.33153691 0.64624771 0.02221539]
+
+Is DNA methylation an epigenetic modification of chromatin related to gene expression?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 11}
+Mean: [0.27766449 0.68887232 0.03346319]
+
+Is Growth factor independence 1b (GFI1B) important for hematopoiesis?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.27112852 0.69374334 0.03512813]
+
+Has Revlimid been approved by the US Food and Drug Administration?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 9}
+Mean: [0.22370341 0.7326274  0.04366918]
+
+Has single guide RNA been used on human cells?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.3131661  0.66612366 0.02071024]
+
+Is Fibroblast Growth Factor 23 a phosphaturic hormone?
+True label: yes
+Verdicts: {'SUP': 78, 'REF': 20}
+Mean: [0.32412853 0.61241315 0.06345833]
+
+Is amoxicillin used for treatment of malnutrition in children?
+True label: yes
+Verdicts: {'SUP': 71, 'REF': 28}
+Mean: [0.34189195 0.608155   0.04995306]
+
+Is it possible to purify pseudopodia to be used for proteomic analysis?
+True label: yes
+Verdicts: {'SUP': 96, 'REF': 4}
+Mean: [0.2048567  0.76751934 0.02762397]
+
+Is  farnesoid X receptor (FXR) a nuclear receptor?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.32444764 0.638018   0.03753436]
+
+Are DNA helicases involved in progeroid syndromes?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.27460665 0.69323899 0.03215436]
+
+Is there association of matrix metalloproteinases with behaviour of pituitary adenomas?
+True label: yes
+Verdicts: {'SUP': 64, 'REF': 35}
+Mean: [0.43092603 0.52387202 0.04520195]
+
+Is Vitamin D deficiency in pregnant women associated with gestational diabetes?
+True label: yes
+Verdicts: {'SUP': 59, 'REF': 38}
+Mean: [0.43529116 0.49115816 0.07355068]
+
+Does Chromatin Immunoprecipitation (ChIP) show a bias for highly expressed loci?
+True label: yes
+Verdicts: {'SUP': 96, 'REF': 4}
+Mean: [0.22903471 0.74655775 0.02440754]
+
+Is clathrin involved in E-cadherin endocytosis?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.23811937 0.73743207 0.02444855]
+
+Is Propofol used for short-term sedation?
+True label: yes
+Verdicts: {'SUP': 73, 'REF': 27}
+Mean: [0.36858058 0.57159405 0.05982538]
+
+Does splicing occur co-transcriptionally?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 10}
+Mean: [0.29395041 0.68237848 0.02367112]
+
+Are there clinical trials on stem cells in multiple sclerosis
+True label: yes
+Verdicts: {'SUP': 78, 'REF': 22}
+Mean: [0.36525506 0.61192452 0.02282041]
+
+Are piRNAs involved in gene silencing?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.28935108 0.68222647 0.02842244]
+
+Can RG7112 inhibit MDM2?
+True label: yes
+Verdicts: {'SUP': 65, 'REF': 34}
+Mean: [0.4352713  0.52285308 0.04187562]
+
+Are there any specific antidotes for dabigatran?
+True label: no
+Verdicts: {'SUP': 73, 'REF': 26}
+Mean: [0.34360783 0.59457843 0.06181374]
+
+Are there any Decision support systems for chronic pain management ?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 29}
+Mean: [0.35747679 0.61381663 0.02870657]
+
+Does amiodarone affect thyroid hormone receptors in the myocardium?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.34225532 0.60955668 0.04818799]
+
+Does thyroid hormone affect cardiac remodeling?
+True label: yes
+Verdicts: {'SUP': 67, 'REF': 33}
+Mean: [0.39966981 0.56251743 0.03781276]
+
+Are there any HCV replication inhibitors available?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.23441561 0.73185869 0.03372569]
+
+Is cocaine use associated with increased risk for intracerebral hemorrhage?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 18}
+Mean: [0.3417619 0.6023295 0.0559086]
+
+Is miR-21 related to carcinogenesis?
+True label: yes
+Verdicts: {'SUP': 61, 'REF': 39}
+Mean: [0.47966255 0.49029988 0.03003757]
+
+Are thyroid hormone receptor alpha1 mutations  implicated in thyroid hormone resistance syndrome?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 8}
+Mean: [0.23482297 0.70787798 0.05729905]
+
+Is PLK2 involved in alpha-synuclein phosphorylation in Parkinson disease?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.32510285 0.63145406 0.04344309]
+
+Is there evidence for somatic mosaicism in Tuberous Sclerosis?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.24382132 0.71574368 0.040435  ]
+
+Does smoking increase risk for glioblastoma?
+True label: no
+Verdicts: {'SUP': 65, 'REF': 32}
+Mean: [0.40286701 0.53675569 0.06037729]
+
+Is Wnt16b secreted in response to chemotherapy?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 32}
+Mean: [0.40283235 0.55833797 0.03882968]
+
+Do DNA double-strand breaks play a causal role in carcinogenesis?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.30028756 0.67011266 0.02959978]
+
+Do conserved noncoding elements co-occur with matrix-attachment regions?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.21873025 0.75900268 0.02226707]
+
+Are Drosophila ultraconserved elements candidate ncRNAs?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.26468682 0.70935049 0.02596269]
+
+Does surgery for ovarian endometriomas improve fertility?
+True label: yes
+Verdicts: {'SUP': 61, 'REF': 35}
+Mean: [0.39282781 0.52363543 0.08353676]
+
+Are ACTA1 (alpha actin) and NEB (nebulin) genes related to nemaline myopathy?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.21394482 0.7372036  0.04885159]
+
+Could RG7112 be used as cancer therapy?
+True label: yes
+Verdicts: {'SUP': 66, 'REF': 33}
+Mean: [0.41455793 0.54876996 0.03667211]
+
+Does thyroid hormone affect cardiac remodeling ?
+True label: yes
+Verdicts: {'SUP': 67, 'REF': 33}
+Mean: [0.39966981 0.56251743 0.03781276]
+
+Is armodafinil used for treatment of insomnia?
+True label: no
+Verdicts: {'SUP': 59, 'REF': 39}
+Mean: [0.42955674 0.50593317 0.06451009]
+
+Are there currently applications of deep learning in genomics?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.19570289 0.79014374 0.01415338]
+
+Are CpG islands located close to housekeeping genes?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.22995328 0.74956725 0.02047948]
+
+Is COL5A2 gene associated to ischemic heart disease?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 29}
+Mean: [0.38789557 0.54418442 0.06792001]
+
+Have microRNAs been implicated in pharmacogenomics? 
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.25838836 0.72169345 0.01991818]
+
+Is nicotinamide effective for skin cancer prevention?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 30}
+Mean: [0.36431052 0.57694494 0.05874454]
+
+Do Parkinson's disease patients experience stridor?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.25630451 0.69411708 0.04957841]
+
+Is there an association between serum interleukin-6 concentrations and outcomes of stroke patients?
+True label: yes
+Verdicts: {'SUP': 60, 'REF': 40}
+Mean: [0.42891284 0.53472753 0.03635963]
+
+Could bioprinting be used in regenerative medicine against bone disease?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 21}
+Mean: [0.36646191 0.61374621 0.01979188]
+
+Is macroautophagy a selective degradation process?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.26679949 0.68835395 0.04484656]
+
+Is there any link between conserved noncoding elements and alternative splicing in vertebrates?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.22406925 0.75538182 0.02054893]
+
+Is muscle regeneration possible in mdx mice with the use of induced mesenchymal stem cells?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 23}
+Mean: [0.35787633 0.60325335 0.03887032]
+
+Is the SDHAF2 gene encoding a protein necessary for flavination of SDHA?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.24506411 0.71854547 0.03639042]
+
+Is zolpidem an antibiotic?
+True label: no
+Verdicts: {'SUP': 79, 'REF': 19}
+Mean: [0.33474979 0.59949862 0.0657516 ]
+
+Can desvenlafaxine be used at a dose of 50mg/day?
+True label: yes
+Verdicts: {'SUP': 66, 'REF': 30}
+Mean: [0.33801967 0.58221312 0.07976721]
+
+Can ferric carboxymaltose be used to treat anemia in inflammatory bowel disease patients?
+True label: yes
+Verdicts: {'SUP': 63, 'REF': 35}
+Mean: [0.43094334 0.52037333 0.04868334]
+
+Is there any association of the chromosomal region harboring the gene ITIH3 with schizophrenia?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 10}
+Mean: [0.25717343 0.70049561 0.04233096]
+
+Is the regulation of Vsr endonuclease independent of the growth phase of bacteria?
+True label: no
+Verdicts: {'SUP': 84, 'REF': 14}
+Mean: [0.28676955 0.66412748 0.04910297]
+
+Are there interactomes available for POU5F1 and SOX2?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.26412202 0.70952532 0.02635266]
+
+Is Rheumatoid Arthritis related to myopathy?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.24233739 0.71525882 0.0424038 ]
+
+Is EZH2 associated with prostate cancer?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 24}
+Mean: [0.37199818 0.58223038 0.04577144]
+
+Is there any cross-talk between the Wnt and the Akt pathways?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 17}
+Mean: [0.31405531 0.65567589 0.0302688 ]
+
+Has the protein GFP been used in transgenesis for live protein imaging?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.27259889 0.70592442 0.02147669]
+
+Is the Snord116 cluster associated with the Prader-Willi syndrome?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.26887793 0.68134577 0.0497763 ]
+
+Is poly (ADP- ribosylation) involved in transcriptional control?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 9}
+Mean: [0.30495313 0.64854169 0.04650518]
+
+Is nimodipine recommended for prevention of vasospasm in aneurysmal subarachnoid hemorrhage patients?
+True label: yes
+Verdicts: {'SUP': 64, 'REF': 35}
+Mean: [0.39760641 0.55078061 0.05161297]
+
+Is lenvatinib effective for thyroid cancer?
+True label: yes
+Verdicts: {'SUP': 62, 'REF': 38}
+Mean: [0.42387386 0.53245749 0.04366865]
+
+Was tamoxifen tested for treatment of glioma patients?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 18}
+Mean: [0.29835845 0.65562429 0.04601726]
+
+Are there any animal models for Niemann-Pick C1 disease?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 11}
+Mean: [0.24343835 0.70366496 0.05289669]
+
+Does HER2 under-expression lead to favorable response to trastuzumab?
+True label: no
+Verdicts: {'SUP': 62, 'REF': 38}
+Mean: [0.4173066  0.54828848 0.03440493]
+
+Is the PTPN22 gene a biomarker for rheumatoid arthritis?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 30}
+Mean: [0.39008625 0.5467413  0.06317244]
+
+Can administration of the thyrotropin releasing hormone reduce fatigue in cancer patients?
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 24}
+Mean: [0.33138492 0.62213748 0.0464776 ]
+
+Is curcumin a phytochemical?
+True label: yes
+Verdicts: {'SUP': 71, 'REF': 29}
+Mean: [0.40070391 0.5672193  0.03207679]
+
+Is Fanconi anemia presented as a genetically and clinically heterogeneous disease entity?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 10}
+Mean: [0.22323124 0.7173719  0.05939685]
+
+Is there evidence for de novo genesis of enhancers in vertebrates?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.24899253 0.73204099 0.01896648]
+
+Is TNNI3K a cardiac-specific protein?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.30300468 0.65613049 0.04086482]
+
+Is factor XI deficient in Hemophilia C?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.25281022 0.67739928 0.0697905 ]
+
+Are EDNRB mutations involved in the development of Hirschsprung disease?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.21819343 0.73876805 0.04303852]
+
+Can the apoptosis regulator BAX trigger the release of cytochrome c?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 20}
+Mean: [0.34069685 0.63266395 0.0266392 ]
+
+Are optogenetics tools used in the study and treatment of epilepsy?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.33513753 0.64381714 0.02104534]
+
+Is micro RNA 1 (miR-1) implicated in cardiac arrhythmias?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 29}
+Mean: [0.39581551 0.57160992 0.03257457]
+
+Are there Conserved Noncoding Elements (CNEs) in invertebrate genomes?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.24850823 0.7287559  0.02273587]
+
+Does thyroid hormone signaling affect microRNAs expression in the heart?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 26}
+Mean: [0.36198159 0.60233862 0.03567979]
+
+Do all archaea possess multiple origins of DNA replication?
+True label: no
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.25754893 0.71422286 0.02822821]
+
+Is p100 the precursor protein molecule of the NF-kappaB transcription factor subunit p50?
+True label: no
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.3253846  0.64595041 0.028665  ]
+
+Is there a difference in the rate between gene fusion and gene fission?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.28822165 0.68915851 0.02261984]
+
+Can cognitive behavioral therapy improve fatigue in cancer patients?
+True label: yes
+Verdicts: {'SUP': 61, 'REF': 39}
+Mean: [0.48132499 0.48837397 0.03030104]
+
+Is protein Fbw7 a SCF type of E3 ubiquitin ligase?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.27751737 0.68072332 0.04175931]
+
+Is there increased incidence of incontinence in athletes?
+True label: yes
+Verdicts: {'SUP': 66, 'REF': 33}
+Mean: [0.41845973 0.53252743 0.04901284]
+
+Are there enhancer RNAs (eRNAs)?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.32007094 0.65442462 0.02550444]
+
+Are conserved noncoding elements associated with the evolution of animal body plans?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.24669036 0.73090832 0.02240132]
+
+Are DNA methylation maps applicable to the diagnosis of non-small-cell lung carcinomas?
+True label: yes
+Verdicts: {'SUP': 63, 'REF': 37}
+Mean: [0.45347703 0.52576255 0.02076042]
+
+Is the protein product of the cylindromatosis gene (CYLD) a deubiquitinating enzyme?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 16}
+Mean: [0.29262428 0.63854314 0.06883258]
+
+Has the presence of delayed enhancement been documented in athletes performing strenuous exercise?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 26}
+Mean: [0.37798797 0.58117171 0.04084032]
+
+Is triadin involved in cardiac function?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 15}
+Mean: [0.26470977 0.68835985 0.04693038]
+
+Is Mammaprint approved by the United States Food and Drug Administration?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 18}
+Mean: [0.31010448 0.65917136 0.03072416]
+
+Is HER2 active only when it dimerizes?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.3017611  0.66198953 0.03624937]
+
+Are microRNA (miR) regulated through DNA methylation of their promoters?
+True label: yes
+Verdicts: {'SUP': 64, 'REF': 36}
+Mean: [0.44831054 0.51549448 0.03619498]
+
+Are nucleosomes positioned at DNA replication origins?
+True label: no
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.26567671 0.7136331  0.0206902 ]
+
+Does nimotuzumab improve survival of glioblastoma patients?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 24}
+Mean: [0.33341885 0.6149939  0.05158724]
+
+Is there a relation between ANP and transcapillary albumin escape?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 21}
+Mean: [0.30151367 0.65547495 0.04301138]
+
+Can chronological age be predicted by measuring telomere length?
+True label: no
+Verdicts: {'SUP': 81, 'REF': 18}
+Mean: [0.31333605 0.64273617 0.04392777]
+
+Is there an association between c-reactive protein concentrations and outcomes of subarachnoid hemorrhage patients? 
+True label: yes
+Verdicts: {'SUP': 62, 'REF': 37}
+Mean: [0.43405493 0.52555962 0.04038546]
+
+Can RNASeq be used for the analysis of nascent transcripts?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.2189965  0.76481517 0.01618834]
+
+Do RNA:DNA hybrids preferentially form in high or low GC regions?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.29859756 0.68037021 0.02103223]
+
+Are shadow enhancers associated with development?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 23}
+Mean: [0.37567975 0.59360744 0.03071281]
+
+Does prudent diet reduce cardiovascular risk?
+True label: yes
+Verdicts: {'SUP': 64, 'REF': 35}
+Mean: [0.42872552 0.53081059 0.04046389]
+
+Is Crohn's disease (CD) linked to the consumption of refrigerated food?
+True label: yes
+Verdicts: {'SUP': 64, 'REF': 35}
+Mean: [0.42038072 0.54437151 0.03524777]
+
+Are there Conserved Noncoding Elements (CNEs) in plant genomes?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.22999618 0.74857181 0.02143201]
+
+Can tetracycline affect tooth formation?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 14}
+Mean: [0.26874046 0.66594422 0.06531532]
+
+Could Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) cause sudden cardiac death?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 17}
+Mean: [0.27998813 0.65373685 0.06627502]
+
+Does Apolipoprotein E (ApoE) have anti-inflammatory activity?
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 23}
+Mean: [0.37423297 0.57654547 0.04922156]
+
+Is the ACE inhibitor indicated for lung cancer treatment?
+True label: no
+Verdicts: {'SUP': 61, 'REF': 38}
+Mean: [0.43369399 0.50485977 0.06144623]
+
+Are genes symmetrically distributed between leading and lagging DNA strand in bacteria?
+True label: no
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.24391388 0.72944182 0.02664431]
+
+Is c-myc subject to regulation by the circadian clock?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.3709539  0.59911123 0.02993487]
+
+is there an increase in ultrasound comets after intense exercise?
+True label: yes
+Verdicts: {'SUP': 73, 'REF': 26}
+Mean: [0.37976627 0.58074253 0.0394912 ]
+
+Can cffDNA be used for non-invasive testing?
+True label: yes
+Verdicts: {'SUP': 78, 'REF': 22}
+Mean: [0.32412241 0.64683389 0.02904369]
+
+Is the UGT1A1*28 polymorphism associated with irinotecan response in Caucasians?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 30}
+Mean: [0.37133791 0.55951897 0.06914313]
+
+Do U6-associated proteins Lsm4 and Lsm6 interact with SMN?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.25979776 0.71127469 0.02892755]
+
+Does MVIIA and MVIIC bind to the same calcium channel?
+True label: no
+Verdicts: {'SUP': 87, 'REF': 12}
+Mean: [0.27027302 0.69671673 0.03301025]
+
+Is arimoclomol a co-inducer of the heat shock response?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 21}
+Mean: [0.33100324 0.61869084 0.05030592]
+
+Has silicon been used in treatment of  incontinence ?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 12}
+Mean: [0.28491591 0.6477315  0.06735259]
+
+Does the 3D structure of  the genome remain stable during cell differentiation?
+True label: no
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.25462675 0.72356923 0.02180402]
+
+Does dronedarone  affect  T3 and T4 levels?
+True label: no
+Verdicts: {'SUP': 83, 'REF': 14}
+Mean: [0.26278908 0.6625819  0.07462902]
+
+Does triiodothyronine (T3) has cardiac angiogenic effects?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 25}
+Mean: [0.33442388 0.60890572 0.0566704 ]
+
+Is the HRC Ser96Ala variant associated with sudden cardiac death in patients with dilated cardiomyopathy?
+True label: yes
+Verdicts: {'SUP': 59, 'REF': 40}
+Mean: [0.46531834 0.48031082 0.05437083]
+
+Are BRAF mutations common in melanoma?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 23}
+Mean: [0.33395513 0.61797789 0.04806698]
+
+Is it possible to determine the proteome of a formalin fixed and paraffin embedded  (FFPE) tissue?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.22470016 0.75089836 0.02440147]
+
+Is aganglionic megacolon a feature of Down syndrome?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.21665979 0.73733374 0.04600647]
+
+Does HuR protein regulate the splicing process?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.3257792  0.63849203 0.03572876]
+
+Is Titin the largest single protein molecule found in Nature?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 10}
+Mean: [0.23836912 0.72874727 0.03288361]
+
+Can clonidine be used to reduce agitation in children.
+True label: yes
+Verdicts: {'SUP': 61, 'REF': 39}
+Mean: [0.4379375  0.51144069 0.05062181]
+
+Does ventriculoperitoneal shunt improve normal pressure hydrocephalus?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 20}
+Mean: [0.31733779 0.63348063 0.04918158]
+
+Does Serca2a bind PLN in the heart?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.28257874 0.68637223 0.03104904]
+
+Is there any role for long noncoding RNAs in adipogenesis?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 26}
+Mean: [0.37850024 0.59533245 0.02616731]
+
+Is there any research that relates the function of Notch Signaling with Alzheimer Disease?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.28903397 0.67850362 0.03246241]
+
+Was modafinil tested for schizophrenia treatment?
+True label: yes
+Verdicts: {'SUP': 71, 'REF': 28}
+Mean: [0.3748182  0.56934894 0.05583286]
+
+Is depression associated with poor prognosis of brain tumor patients?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 32}
+Mean: [0.37255441 0.58923334 0.03821224]
+
+Have germline variants been associated to colorectal cancer?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 31}
+Mean: [0.40540312 0.56827018 0.0263267 ]
+
+Can Alzheimer's disease related miRNAs be detected in patients' blood?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 31}
+Mean: [0.38227586 0.58300771 0.03471643]
+
+Is it possible to visualize subtahalamic nucleus by using transcranial ultrasound?
+True label: yes
+Verdicts: {'SUP': 54, 'REF': 45}
+Mean: [0.47203312 0.48930453 0.03866235]
+
+Do thyroid hormone receptors change after brain injury?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 24}
+Mean: [0.3461846  0.61276662 0.04104877]
+
+Is gastro esophageal reflux related to burning mouth syndrome?
+True label: no
+Verdicts: {'SUP': 71, 'REF': 27}
+Mean: [0.34882357 0.58089208 0.07028435]
+
+Is thrombophilia related to increased risk of miscarriage?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 21}
+Mean: [0.31148349 0.64601977 0.04249674]
+
+Does nifedipine inhibit L-type calcium channels?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 18}
+Mean: [0.2860556  0.67373263 0.04021178]
+
+Is there any data to suggest that TRH (thyrotropin releasing hormone) administration can improve symptom severity of amyotrophic lateral sclerosis patients?
+True label: yes
+Verdicts: {'SUP': 67, 'REF': 32}
+Mean: [0.39652712 0.55462055 0.04885234]
+
+Can siRNA affect response to afatinib treatment?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 30}
+Mean: [0.41414518 0.56121521 0.02463961]
+
+Is there an association between presenteeism and depression?
+True label: yes
+Verdicts: {'SUP': 78, 'REF': 21}
+Mean: [0.32534554 0.62824477 0.04640969]
+
+Does triiodothyronine stimulate red blood cell sodium potassium pump?
+True label: no
+Verdicts: {'SUP': 75, 'REF': 24}
+Mean: [0.30045625 0.62408473 0.07545901]
+
+Is selumetinib effective in thyroid cancer?
+True label: yes
+Verdicts: {'SUP': 71, 'REF': 28}
+Mean: [0.35111578 0.5857169  0.06316732]
+
+Are immune cells affected in Amyotrophic Lateral Sclerosis?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.28742071 0.67510859 0.0374707 ]
+
+Are OATP1B1 and OATP1B3 associated with bilirubin transport?
+True label: yes
+Verdicts: {'SUP': 71, 'REF': 29}
+Mean: [0.36851437 0.59445409 0.03703153]
+
+Is thyroid hormone therapy indicated in patients with heart failure?
+True label: no
+Verdicts: {'SUP': 68, 'REF': 30}
+Mean: [0.38358547 0.56633509 0.05007943]
+
+Is there a mouse model for Fanconi anemia?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.22871517 0.73285224 0.03843259]
+
+Could Hyperthermic intraperitoneal chemotherapy (HIPEC) be effective for the treatment of recurrent ovarian cancer?
+True label: yes
+Verdicts: {'SUP': 64, 'REF': 36}
+Mean: [0.4042704  0.55160384 0.04412577]
+
+Is Rac1 involved in cancer cell invasion?
+True label: yes
+Verdicts: {'SUP': 66, 'REF': 34}
+Mean: [0.42832027 0.54097172 0.03070802]
+
+Is the gene SLC6A2 associated with orthostatic intolerance?
+True label: yes
+Verdicts: {'SUP': 66, 'REF': 33}
+Mean: [0.41163054 0.53177736 0.05659211]
+
+Is macitentan an ET agonist?
+True label: no
+Verdicts: {'SUP': 68, 'REF': 31}
+Mean: [0.361761   0.59405105 0.04418795]
+
+Can we use platelet biomarkers to study Alzheimer's disease?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 20}
+Mean: [0.29979496 0.66387065 0.03633439]
+
+Is CHEK2 involved in cell cycle control?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.31134242 0.64557932 0.04307826]
+
+Are the proteins Erbin (LAP2) and Merlin cooperating?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 12}
+Mean: [0.30155161 0.64966792 0.04878048]
+
+Is abdominal pain a common symptom in autism?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 21}
+Mean: [0.33027246 0.62622247 0.04350508]
+
+Are cyclophilins ubiquitously expressed?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.20004348 0.75268475 0.04727176]
+
+Are adenylyl cyclases always transmembrane proteins?
+True label: no
+Verdicts: {'SUP': 85, 'REF': 13}
+Mean: [0.25899609 0.6966261  0.04437781]
+
+Does low T3 negatively affect prognosis of patients after cardiac surgery?
+True label: yes
+Verdicts: {'SUP': 55, 'REF': 42}
+Mean: [0.47885911 0.46115399 0.05998689]
+
+Does neuroglobin has neuroprotective properties in the setting of traumatic brain injury?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 14}
+Mean: [0.28925752 0.65688626 0.05385622]
+
+Does the concentration of protein HIF-1α increase after the administration of the cytoprotective prodrug"amifostine" (ethyol) ?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 31}
+Mean: [0.41761999 0.53525997 0.04712005]
+
+Do Conserved noncoding elements act as enhancers?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.27371723 0.70282385 0.02345892]
+
+Can the iPS cell technology be used in Fanconi anemia therapy?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.31258531 0.66350028 0.02391441]
+
+Can Preimplantation Genetic Diagnosis (PGD) be used for gender selection?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.32558795 0.64516316 0.0292489 ]
+
+Has proteomics been used in the study of the dry eye syndrome?
+True label: yes
+Verdicts: {'SUP': 78, 'REF': 22}
+Mean: [0.31319802 0.64819651 0.03860546]
+
+Is Tuberous Sclerosis a genetic disease?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.23064737 0.72949775 0.03985488]
+
+Does TRIM37 gene mutation causes Mulibrey nanism?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.2974946 0.6495371 0.0529683]
+
+Have thyronamines effects on fat tissue?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 29}
+Mean: [0.36740988 0.58405113 0.04853899]
+
+Is there any protein that undergoes both mono-ubiquitination and poly-ubiquitination?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.27782244 0.69597812 0.02619944]
+
+Are pseudogenes enriched with housekeeping protein families?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.23685376 0.73924109 0.02390516]
+
+Is olaparib effective for prostate cancer?
+True label: yes
+Verdicts: {'SUP': 53, 'REF': 46}
+Mean: [0.46753477 0.474264   0.05820123]
+
+Is physical performance influenced by thyroid hormone metabolism?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 30}
+Mean: [0.37765153 0.57189759 0.05045088]
+
+Do plant genomes contain CpG islands?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.24327933 0.73508025 0.02164042]
+
+Are high-flow nasal cannulae effective for treatment of preterm infants?
+True label: yes
+Verdicts: {'SUP': 57, 'REF': 40}
+Mean: [0.43402599 0.4949511  0.07102293]
+
+Does triiodothyronine play a regulatory role in insulin secretion from pancreas?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 25}
+Mean: [0.3341056  0.61460494 0.05128945]
+
+Is the Histidine-Rich Calcium Binding protein (HRC) related to arrhythmias and cardiac disease?
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 24}
+Mean: [0.3469947  0.61201351 0.04099178]
+
+Can adult humans be induced to produce fetal hemoglobin?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.25259064 0.71088454 0.03652482]
+
+Is Turcot syndrome associated with glioblastoma?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.24955987 0.70077019 0.04966994]
+
+Is Calcium/Calmodulin dependent protein kinase II (CaMKII) involved in cardiac arrhythmias and heart failure?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 25}
+Mean: [0.37891569 0.58356967 0.03751464]
+
+Does SCRIB deregulation promote cancer?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 18}
+Mean: [0.32667893 0.63274854 0.04057253]
+
+Is cardiac magnetic resonance imaging indicated in the pre-participation screening of athletes?
+True label: no
+Verdicts: {'SUP': 69, 'REF': 29}
+Mean: [0.37031071 0.58226129 0.047428  ]
+
+Is imatinib an antidepressant drug?
+True label: no
+Verdicts: {'SUP': 73, 'REF': 26}
+Mean: [0.34711618 0.61000061 0.04288322]
+
+Are ultraconserved elements depleted among copy number variants (CNVs)?
+True label: yes
+Verdicts: {'SUP': 97, 'REF': 3}
+Mean: [0.21524197 0.76241089 0.02234715]
+
+Is the microRNA 132 (miR-132) involved in brain pathologies?
+True label: yes
+Verdicts: {'SUP': 71, 'REF': 29}
+Mean: [0.39734268 0.56943555 0.03322176]
+
+Does cucumber lower blood sugar in diabetics?
+True label: yes
+Verdicts: {'SUP': 53, 'REF': 47}
+Mean: [0.51208618 0.4514461  0.03646772]
+
+Are Notch mutations related to T-cell Acute Lymphoblastic Leukemia (T-ALL)?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.28626657 0.68352424 0.0302092 ]
+
+Is the protein FAK (Focal Adhesion Kinase) phosphorylated?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.32099794 0.65224969 0.02675237]
+
+Does ghrelin play a role in ischemic stroke?
+True label: yes
+Verdicts: {'SUP': 66, 'REF': 32}
+Mean: [0.39775302 0.54728165 0.05496532]
+
+Is LPS a microbial product?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 20}
+Mean: [0.33079118 0.63672696 0.03248186]
+
+Has field-programmable gate array (FPGA) technology been used to solve sequence alignment problems?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.27723973 0.70929869 0.01346157]
+
+Is Achondroplasia associated with hearing loss?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 11}
+Mean: [0.2443135  0.68062815 0.07505835]
+
+Is the JNK pathway activated during liver regeneration?
+True label: yes
+Verdicts: {'SUP': 73, 'REF': 26}
+Mean: [0.38442713 0.57326084 0.04231203]
+
+Is STAT3 transcription factor regulated by mTORC1?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.30336445 0.65466354 0.04197202]
+
+Is calcium overload involved in the development of diabetic cardiomyopathy?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 20}
+Mean: [0.31671115 0.63851251 0.04477634]
+
+Is RIP1 (RIP-1) part of the necrosome?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 14}
+Mean: [0.29292806 0.66877084 0.0383011 ]
+
+Is the protein KCNQ2 associated with idiopathic epilepsy?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 14}
+Mean: [0.29951752 0.65001366 0.05046883]
+
+Can RNAPolII function as an RNA-dependent RNA-polymerase?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.26241749 0.71647595 0.02110657]
+
+Does the Oncotype DX test work with paraffin embedded tissues?
+True label: yes
+Verdicts: {'SUP': 65, 'REF': 34}
+Mean: [0.40335081 0.54686782 0.04978137]
+
+Is the PTPN22 gene a biomarker for Rheumatoid Arthritis?
+True label: yes
+Verdicts: {'SUP': 67, 'REF': 32}
+Mean: [0.40330805 0.53498622 0.06170572]
+
+Is marijuana use associated with increased risk for stroke?
+True label: yes
+Verdicts: {'SUP': 62, 'REF': 36}
+Mean: [0.42867056 0.5235115  0.04781793]
+
+Does fibronectin constitute a serum biomarker for Duchenne muscular dystrophy?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.31180102 0.64957624 0.03862275]
+
+Are mutations in the STXBP1 gene associated with epilepsy?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.27450361 0.68000054 0.04549585]
+
+Is mitofusin 2 a receptor for parkin?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.33165511 0.62895558 0.0393893 ]
+
+Is there a relationship between thyroid hormone altered metabolism and coronary artery disease?
+True label: yes
+Verdicts: {'SUP': 56, 'REF': 41}
+Mean: [0.47632318 0.4685432  0.05513362]
+
+Are microtubules marked by glutamylation?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.27768844 0.69151124 0.03080031]
+
+Is synapsin a phosphoprotein?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.27974804 0.6949709  0.02528107]
+
+Is Thalidomide currently a marketed drug?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.24466942 0.70150554 0.05382504]
+
+Could BRCA gene test used for breast and ovarian cancer risk?
+True label: yes
+Verdicts: {'SUP': 59, 'REF': 39}
+Mean: [0.44634069 0.50242899 0.05123033]
+
+Has Glucose-6-phosphate dehydrogenase (G6PD) deficiency an X-linked inheritance?
+True label: yes
+Verdicts: {'SUP': 78, 'REF': 22}
+Mean: [0.31477238 0.61140528 0.07382233]
+
+Is the toxin produced by Clostridium botulinum always deadly?
+True label: no
+Verdicts: {'SUP': 89, 'REF': 10}
+Mean: [0.25810125 0.69085862 0.05104014]
+
+Is ocrelizumab effective for treatment of multiple sclerosis?
+True label: yes
+Verdicts: {'SUP': 60, 'REF': 39}
+Mean: [0.405737   0.53563104 0.05863197]
+
+Is there a role of regorafenib for sarcoma treatment?
+True label: yes
+Verdicts: {'SUP': 63, 'REF': 34}
+Mean: [0.41743132 0.52989438 0.0526743 ]
+
+Is exon skipping correlated with exon circularization?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.22787438 0.7429786  0.02914701]
+
+Is NADPH oxidase 5 expressed in rodents?
+True label: no
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.28120628 0.68659612 0.03219759]
+
+Does Vitamin D induce  autophagy?
+True label: yes
+Verdicts: {'SUP': 67, 'REF': 32}
+Mean: [0.36933997 0.56329112 0.06736891]
+
+Is RASA2 involved in melanoma?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 18}
+Mean: [0.3300537  0.61342189 0.05652442]
+
+Is SUMOylation a post-translational modification in eukaryotes?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.30992049 0.66084814 0.02923138]
+
+Is Annexin V an apoptotic marker?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 23}
+Mean: [0.37971537 0.58428181 0.03600282]
+
+Is the protein lefty an inhibitor of nodal?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.2988497  0.66151651 0.03963379]
+
+Is Migalastat used for treatment of Fabry Disease?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 19}
+Mean: [0.2789081  0.66543383 0.05565807]
+
+Do statins cause diabetes?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 26}
+Mean: [0.34642131 0.55797087 0.09560782]
+
+Are deletions of chromosomal regulatory boundaries associated with congenital disease?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 11}
+Mean: [0.28330987 0.68316079 0.03352934]
+
+Can the Micro-C XL method achieve mononucleosome resolution?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.24604282 0.72636562 0.02759156]
+
+Can Diabetes be caused by a defect in a potassium chanel?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 20}
+Mean: [0.32118398 0.62897058 0.04984544]
+
+Is rucaparib used for ovarian cancer treatment?
+True label: yes
+Verdicts: {'SUP': 65, 'REF': 34}
+Mean: [0.4067835  0.54611641 0.04710009]
+
+Could hypophosphatemic rickets cause craniosynostosis?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.24001632 0.69202524 0.06795843]
+
+Is vortioxetine effective for treatment of depression?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 31}
+Mean: [0.37741263 0.5774511  0.04513626]
+
+Can beans induce apoptosis?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 19}
+Mean: [0.34166976 0.61599332 0.04233692]
+
+Is treatment resistant depression related to vitamin B9?
+True label: yes
+Verdicts: {'SUP': 71, 'REF': 26}
+Mean: [0.34378193 0.60339116 0.05282691]
+
+Is adalimumab effective for hidradenitis suppurativa?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 28}
+Mean: [0.3470238  0.59456818 0.05840802]
+
+Can NEECHAM Confusion Scale be used for evaluation of postoperative delirium?
+True label: yes
+Verdicts: {'SUP': 60, 'REF': 39}
+Mean: [0.44064635 0.51755345 0.04180019]
+
+Is there an association between Muenke Syndrome and FGFR3 gene mutation?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.23586913 0.71963203 0.04449884]
+
+Has small pox been eradicated from the world?
+True label: yes
+Verdicts: {'SUP': 96, 'REF': 4}
+Mean: [0.1940451  0.75605387 0.04990104]
+
+Is there alternative polyadenylation during zebrafish development?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.28805787 0.68866434 0.02327779]
+
+Are alterations in ultraconserved elements implicated in breast cancer?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.26304828 0.71029536 0.02665635]
+
+Is there any tool that facilitates the functional analysis of cis-regulatory regions in zebrafish?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.21455201 0.76630144 0.01914655]
+
+Has whole exome sequencing been performed in Alzheimer patients?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.21697443 0.74177852 0.04124705]
+
+Is Stat4 a transcription factor?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 10}
+Mean: [0.26586129 0.69636569 0.03777302]
+
+Have the promoter regions of the genes implicated in Rett Syndrome been characterized with CAGE?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.28763212 0.66562098 0.0467469 ]
+
+Has "RNA interference" been awarded Nobel prize?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 17}
+Mean: [0.29112988 0.6773992  0.03147092]
+
+Is there any role for Pds5b in cohesion establishment?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.24952204 0.70958869 0.04088926]
+
+Could plasmepsins be used as targets for developing anti-malaria drugs?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.18356993 0.78851751 0.02791256]
+
+Is avanafil indicated for treatment of erectile dysfunction?
+True label: yes
+Verdicts: {'SUP': 60, 'REF': 39}
+Mean: [0.46474833 0.4799108  0.05534087]
+
+Is there a role for gamma knife in treatment of Obsessive-Compulsive Disorder?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 25}
+Mean: [0.34872666 0.60887771 0.04239564]
+
+Can NADPH oxidase be inhibited by apocynin and diphenylene iodonium?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 15}
+Mean: [0.2874731  0.66371478 0.04881212]
+
+Does NADPH oxidase 5 require any subunit for function?
+True label: no
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.28548304 0.68199294 0.03252402]
+
+Is NSD-1015 an inhibitor of Aromatic L-Amino Acid Decarboxylase?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 12}
+Mean: [0.21424486 0.72794218 0.05781296]
+
+Is pseudouridine a RNA modification?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.25675146 0.7199485  0.02330004]
+
+Do IEG create a ripple effect of transcription?
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 24}
+Mean: [0.37927442 0.58840598 0.0323196 ]
+
+Do T-Cells regulate neuropathic pain?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 25}
+Mean: [0.38443261 0.5782719  0.03729548]
+
+Can telomere length shortening be reversed by telomerase?
+True label: yes
+Verdicts: {'SUP': 67, 'REF': 33}
+Mean: [0.43726419 0.51871609 0.04401972]
+
+Is ABCE1 involved in ribosomal recycling?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 18}
+Mean: [0.32792062 0.63389352 0.03818586]
+
+Does oculocutaneous albinism show an autosomal recessive inheritance?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.24303909 0.69039893 0.06656199]
+
+Are Ultra-conserved elements (UCEs) enriched in segmental duplications?
+True label: no
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.26419416 0.70909294 0.02671289]
+
+Do normal cells express the protein TERT?
+True label: no
+Verdicts: {'SUP': 77, 'REF': 22}
+Mean: [0.36210736 0.59598515 0.0419075 ]
+
+Is there any involvement of the long non-coding RNA Gomafu in schizophrenia?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.29069821 0.67856509 0.0307367 ]
+
+Is butterfly rash a symptom of Systemic lupus erythematosus?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 11}
+Mean: [0.2480455  0.69599775 0.05595675]
+
+Is infertility characteristic of individuals with Fanconi anemia?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 9}
+Mean: [0.23737309 0.70863138 0.05399553]
+
+Is golimumab effective for ulcerative colitis?
+True label: yes
+Verdicts: {'SUP': 64, 'REF': 35}
+Mean: [0.40714533 0.54149276 0.05136192]
+
+Does mTOR regulate the translation of MAPKAPK2?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 13}
+Mean: [0.29151249 0.65329018 0.05519733]
+
+Do histone variant mH2A (macro-H2A) levels decrease upon differentiation?
+True label: no
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.30015173 0.67458203 0.02526625]
+
+Could divalent metal transporter 1 deficiency lead to anemia?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.30708989 0.64585761 0.0470525 ]
+
+Does the hERG gene code for a protein which is part of a sodium channel?
+True label: no
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.27572603 0.68704836 0.03722561]
+
+Is lenvatinib effective for renal cell carcinoma?
+True label: yes
+Verdicts: {'SUP': 72, 'REF': 28}
+Mean: [0.37154535 0.58923174 0.03922291]
+
+Does HuR bind to the untranslated regions (UTRs) of mRNAs?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.32216622 0.64267527 0.03515851]
+
+Is H4K20 methylation associated with DNA replication?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.25583699 0.70960504 0.03455796]
+
+Does CRISPR inversion of CTCF sites alter genome topology?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.33533158 0.64375265 0.02091577]
+
+Is there a role of proton beam therapy in medulloblastoma treatment?
+True label: yes
+Verdicts: {'SUP': 62, 'REF': 38}
+Mean: [0.45633611 0.50571423 0.03794966]
+
+Are there canonical marks of active chromatin in developmentally regulated genes?
+True label: no
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.28041109 0.69905577 0.02053314]
+
+Are there methods for generating highly multiplexed ChIP-seq libraries?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.21485332 0.7681644  0.01698228]
+
+Is Doxorubicin cardiotoxic?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 18}
+Mean: [0.3190413  0.63913632 0.04182237]
+
+Is the mouse Sry gene locus free of repetitive sequences?
+True label: no
+Verdicts: {'SUP': 94, 'REF': 5}
+Mean: [0.24270673 0.7092561  0.04803717]
+
+Is Meis1 implicated in microphthalmia?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.3280936  0.61984631 0.05206009]
+
+Can Pentraxin 3 predict outcomes of sepsis?
+True label: yes
+Verdicts: {'SUP': 58, 'REF': 40}
+Mean: [0.45496866 0.47783404 0.06719731]
+
+Is ocular melanosis a risk factor for uveal melanoma?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 10}
+Mean: [0.2209348  0.72080163 0.05826356]
+
+Is siltuximab effective for Castleman disease?
+True label: yes
+Verdicts: {'SUP': 65, 'REF': 34}
+Mean: [0.38351186 0.56861383 0.04787431]
+
+Is the enzyme EPRS phosphorylated?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.31000905 0.66366505 0.0263259 ]
+
+Is there a relationship between B cells and Multiple Sclerosis?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.23674534 0.7387124  0.02454226]
+
+Does Yersinia pestis causes a respiratory infection?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.32145717 0.63325193 0.0452909 ]
+
+Are the genes for marneral biosynthesis scattered in the genome of A. thaliana?
+True label: no
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.23408533 0.73764457 0.0282701 ]
+
+Is Dupilumab used for treatment of atopic dermatitis?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 31}
+Mean: [0.39068479 0.56457352 0.04474169]
+
+Does Jarid2 play a role in early embryo development?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.31317562 0.65921073 0.02761365]
+
+Is PUVA therapy indicated for eczema treatment?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 20}
+Mean: [0.31484513 0.61558685 0.06956803]
+
+Do brown fat cells produce heat?
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 24}
+Mean: [0.37220569 0.5929394  0.03485492]
+
+Is Melioidosis caused by the bacterium Burkholderia pseudomallei?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.30074087 0.66161955 0.03763959]
+
+Can glyburide reduce cerebral edema?
+True label: yes
+Verdicts: {'SUP': 63, 'REF': 37}
+Mean: [0.45659231 0.50112992 0.04227777]
+
+Has the gorilla genome been determined?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.2345106  0.7237529  0.04173651]
+
+Is vemurafenib used for thyroid cancer?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 28}
+Mean: [0.38004131 0.55780256 0.06215613]
+
+Are mutations in the C9orf72  gene associated with macular degeneration?
+True label: no
+Verdicts: {'SUP': 76, 'REF': 23}
+Mean: [0.32899274 0.61939028 0.05161697]
+
+Is the number of described human nuclear mutations less than 50000?
+True label: no
+Verdicts: {'SUP': 93, 'REF': 6}
+Mean: [0.2084988  0.75841922 0.03308198]
+
+Is Musclin a secretory peptide?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 13}
+Mean: [0.26973399 0.68990189 0.04036412]
+
+Are cutaneous porphyrias inherited with a recessive pattern?
+True label: no
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.22804338 0.70598784 0.06596877]
+
+Can methylenetetrahydrofolate reductase (MTHFR) gene mutations cause homocystinuria?
+True label: yes
+Verdicts: {'SUP': 66, 'REF': 34}
+Mean: [0.43413637 0.52074722 0.04511641]
+
+Can valproic acid prolong survival of glioblastoma patients?
+True label: yes
+Verdicts: {'SUP': 61, 'REF': 39}
+Mean: [0.42498054 0.53536327 0.03965619]
+
+Is Cryptococcus neoformans a frequent cause of isolated skin infections in immunocompromised individuals
+True label: no
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.26182761 0.6965652  0.0416072 ]
+
+Is Obeticholic Acid used for treatment of Primary Biliary Cholangitis?
+True label: yes
+Verdicts: {'SUP': 65, 'REF': 34}
+Mean: [0.40872108 0.53911494 0.05216397]
+
+Does the word ovine refers to goats?
+True label: no
+Verdicts: {'SUP': 80, 'REF': 16}
+Mean: [0.26769383 0.65747103 0.07483514]
+
+Does GATA-1 regulate ribosomal protein genes?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.26971916 0.70546627 0.02481457]
+
+Does the TOP2B/TOP2A expression ratio affect the response to AML chemotherapy?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 24}
+Mean: [0.2963885  0.64570659 0.05790491]
+
+Is Lennox-Gastaut Syndrome usually diagnosed in older adults?
+True label: no
+Verdicts: {'SUP': 78, 'REF': 20}
+Mean: [0.2989138  0.63833133 0.06275487]
+
+Is Beta-Thalassemia is associated with a mutation or deletion of the gene that codes for alpha globin?
+True label: no
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.25919026 0.69197049 0.04883925]
+
+Is diphosphatidylglycerol (cardiolipin) a phospholipid of the mitochondrial membranes?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.26840623 0.69497321 0.03662056]
+
+Have studies shown that there is no link between DNA methylation patterns and Post Traumatic Stress Disorder?
+True label: no
+Verdicts: {'SUP': 76, 'REF': 23}
+Mean: [0.32202626 0.63211386 0.04585989]
+
+Is POLD3 essential for mouse development?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 10}
+Mean: [0.26643946 0.69236331 0.04119723]
+
+Are hepadnaviral minichromosomes free of nucleosomes?
+True label: no
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.29256199 0.67469037 0.03274764]
+
+Is Cri Du Chat associated with an expansion of a repeat with in the gene found on chromosome 5?
+True label: no
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.27554755 0.67747861 0.04697384]
+
+Is it feasible to obtain DNA read lengths that exceed 30 Kb?
+True label: no
+Verdicts: {'SUP': 96, 'REF': 4}
+Mean: [0.2202304  0.75845934 0.02131026]
+
+Is osteocrin expressed exclusively in the bone?
+True label: no
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.3145131  0.62612316 0.05936375]
+
+Are alterations in ultraconserved elements associated with colorectal adenocarcinoma?
+True label: yes
+Verdicts: {'SUP': 80, 'REF': 19}
+Mean: [0.31432834 0.64761416 0.0380575 ]
+
+Is apremilast effective for psoriasis?
+True label: yes
+Verdicts: {'SUP': 73, 'REF': 26}
+Mean: [0.36491104 0.58494678 0.05014218]
+
+Is skin color affected by variations of the SLC24A5 gene?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 23}
+Mean: [0.35050748 0.59219082 0.0573017 ]
+
+Do circRNAs remain untranslated?
+True label: no
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.22294322 0.73917252 0.03788426]
+
+Is autophagy the process where bacteria ingest viral particles?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.31672577 0.65030094 0.03297329]
+
+Is intraoperative radiotherapy used for treatment of glioblastoma?
+True label: no
+Verdicts: {'SUP': 63, 'REF': 34}
+Mean: [0.39997738 0.53611006 0.06391256]
+
+Is tirilazad effective for treatment of aneurysmal subarachnoid haemorrhage?
+True label: no
+Verdicts: {'SUP': 68, 'REF': 32}
+Mean: [0.39253903 0.55833483 0.04912614]
+
+Is dexamethasone recommended for treatment of intracerebral hemorrhage?
+True label: no
+Verdicts: {'SUP': 66, 'REF': 31}
+Mean: [0.38526752 0.53441819 0.08031429]
+
+Is airplane stroke syndrome a common disease.
+True label: no
+Verdicts: {'SUP': 74, 'REF': 24}
+Mean: [0.35859948 0.5837609  0.05763962]
+
+Is hydroxyurea usually used to treated infectious disease?
+True label: no
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.23660807 0.71389844 0.04949349]
+
+Can acupuncture cause spinal epidural hematoma?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 23}
+Mean: [0.34469868 0.59601369 0.05928764]
+
+Is edema a symptom of nephrotic syndrome?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 15}
+Mean: [0.24532667 0.70268253 0.0519908 ]
+
+Is there an association between Histone H3.3 mutations and glioma?
+True label: yes
+Verdicts: {'SUP': 78, 'REF': 22}
+Mean: [0.32858684 0.62838061 0.04303256]
+
+Is Pfh1 a component of the replisome?
+True label: no
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.23204432 0.74041993 0.02753575]
+
+Does the Abelson-related gene (ARG) gene encode for a serine kinase?
+True label: no
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.30028929 0.65664116 0.04306955]
+
+Is Prochlorococcus the most abundant photosynthetic organism?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.25633342 0.71709978 0.02656681]
+
+Is dupilumab an antibody targeting the IL-1 receptor?
+True label: no
+Verdicts: {'SUP': 59, 'REF': 41}
+Mean: [0.45005553 0.50686389 0.04308059]
+
+Does the histone chaperone ASF1 interact with histones H1/H2?
+True label: no
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.26864835 0.70035077 0.03100088]
+
+Is Hepatic mesenchymal hamartoma usually a malignant tumor?
+True label: no
+Verdicts: {'SUP': 89, 'REF': 10}
+Mean: [0.26573091 0.67725432 0.05701477]
+
+Are selenium supplements recommended for prostate cancer prevention?
+True label: no
+Verdicts: {'SUP': 74, 'REF': 24}
+Mean: [0.34061814 0.60693218 0.05244968]
+
+Is there any involvement of L1 retrotransposition in the Rett syndrome?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.25540044 0.70990342 0.03469614]
+
+Is Downs syndrome associated with decreased risk of leukemia?
+True label: no
+Verdicts: {'SUP': 84, 'REF': 15}
+Mean: [0.27567499 0.67149125 0.05283376]
+
+Does PCSK9 (Proprotein convertase subtilisin/kexin type 9) binds with HDL-receptor (HDL-R)?
+True label: no
+Verdicts: {'SUP': 69, 'REF': 31}
+Mean: [0.40204427 0.55895216 0.03900358]
+
+Is apremilast effective for psoriatic arthritis?
+True label: yes
+Verdicts: {'SUP': 78, 'REF': 21}
+Mean: [0.32771324 0.62378795 0.0484988 ]
+
+Is there any role of TBR1 in autism?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.28279174 0.68102764 0.03618061]
+
+Is sonidegib effective for basal cell carcinoma?
+True label: yes
+Verdicts: {'SUP': 72, 'REF': 27}
+Mean: [0.35207032 0.59381762 0.05411206]
+
+Does RNA polymerase II have RNA cleavage activity?
+True label: yes
+Verdicts: {'SUP': 97, 'REF': 3}
+Mean: [0.23182434 0.745948   0.02222766]
+
+Is there a sequence bias in MNase digestion patterns?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.23663404 0.74172994 0.02163602]
+
+Is NEMO a zinc finger protein?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.26909583 0.69538691 0.03551727]
+
+Does TFIIS affect nucleosome positioning?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.26682135 0.71003734 0.0231413 ]
+
+Is tretinoin effective for photoaging?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 25}
+Mean: [0.35296155 0.59719476 0.04984369]
+
+Does TUC.338 inhibit colorectal cancer?
+True label: no
+Verdicts: {'SUP': 64, 'REF': 35}
+Mean: [0.42097401 0.53825737 0.04076863]
+
+Has ruxolitinib received FDA approval?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.31275097 0.6454749  0.04177413]
+
+Is scuba diving safe during pregnancy?
+True label: no
+Verdicts: {'SUP': 71, 'REF': 27}
+Mean: [0.34979637 0.57437464 0.07582899]
+
+Does deflazacort have more side effects than prednisone?
+True label: no
+Verdicts: {'SUP': 82, 'REF': 16}
+Mean: [0.28744532 0.65645296 0.05610172]
+
+Does echinacea increase anaphylaxis risk?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 22}
+Mean: [0.33153661 0.60167712 0.06678627]
+
+Are neurexins localized at pre-synapses?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.29309653 0.67317741 0.03372607]
+
+Is there any role of 5hmC in T-cell development and differentiation?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 10}
+Mean: [0.26686021 0.69826716 0.03487263]
+
+Are there ultraconserved genomic regions in the budding yeast?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.22232309 0.75656645 0.02111046]
+
+Is davunetide being considered for the treatment of progressive supranuclear palsy?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 30}
+Mean: [0.36064505 0.59254088 0.04681407]
+
+Is autophagy modulated in a circadian fashion?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 17}
+Mean: [0.3400702  0.62004177 0.03988804]
+
+Is Drk essential for anesthesia-resistant memory (ARM) in Drosophila?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.31280352 0.64815163 0.03904485]
+
+Are TAD boundaries in Drosophila depleted in highly-expressed genes?
+True label: no
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.25935177 0.71578902 0.02485921]
+
+Is there increased recombination rate in human regulatory domains?
+True label: no
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.30275336 0.67689313 0.02035352]
+
+Is enzastaurin effective treatment of glioblastoma?
+True label: no
+Verdicts: {'SUP': 64, 'REF': 32}
+Mean: [0.38395217 0.54416183 0.071886  ]
+
+Is dasatinib effective for treatment of glioblastoma?
+True label: no
+Verdicts: {'SUP': 65, 'REF': 34}
+Mean: [0.39302153 0.55627969 0.05069877]
+
+Has IVIG been tested in clinical trials for the treatment of Alzheimer's disease?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 23}
+Mean: [0.34464259 0.61749271 0.03786471]
+
+Does a tonsillectomy affect the patient's voice?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 24}
+Mean: [0.31520583 0.60202007 0.0827741 ]
+
+Do cephalopods use RNA editing less frequently than other species?
+True label: no
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.24394453 0.72698884 0.02906662]
+
+Is there an RNAi drug being developed to treat amyloidosis?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 31}
+Mean: [0.38032791 0.59129462 0.02837747]
+
+Is there an association between carcinoid syndrome and mitral valve disease?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 15}
+Mean: [0.28685209 0.6581548  0.05499311]
+
+Are there RNAi approaches considered for the treatment of kidney injury?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 15}
+Mean: [0.31795046 0.65577444 0.0262751 ]
+
+Is propranolol used for treatment of infantile hemangioma?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 29}
+Mean: [0.35855649 0.59555496 0.04588855]
+
+Can the CEP290 gene mutations be targeted by AAV-mediated gene therapy?
+True label: no
+Verdicts: {'SUP': 71, 'REF': 29}
+Mean: [0.39574809 0.57963963 0.02461227]
+
+Are mutations in the nf1 gene associated with memory?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.28120028 0.67066473 0.04813499]
+
+Is ACI-35 a passive vaccine?
+True label: no
+Verdicts: {'SUP': 77, 'REF': 22}
+Mean: [0.33957133 0.61558617 0.04484251]
+
+Is DNA methylation correlated with nucleosome occupancy?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.24916102 0.72222341 0.02861557]
+
+Does DDX54 play a role in DNA damage response?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.32957004 0.62515368 0.04527629]
+
+Do bacteria from the genus Morexella cause respiratory infections?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 11}
+Mean: [0.2555024  0.69932497 0.04517264]
+
+Do chromatin features predict genes associated with eQTLs?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.2711647  0.71184627 0.01698903]
+
+Is Kummell’s disease an avascular necrosis of the vertebral body?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 19}
+Mean: [0.29842435 0.6270305  0.07454515]
+
+Are Conserved Nonexonic Elements (CNEEs) important in phylogenomics research?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.20636739 0.77482003 0.01881258]
+
+Can the yeast protein Abf1 act as insulator?
+True label: yes
+Verdicts: {'SUP': 93, 'REF': 7}
+Mean: [0.25213438 0.71840616 0.02945946]
+
+Is there any linear-time and linear-space algorithm for the computation of avoided words in biological sequences?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.29573906 0.68460277 0.01965817]
+
+Is a CpG island methylator phenotype involved in ependymomas?
+True label: yes
+Verdicts: {'SUP': 78, 'REF': 22}
+Mean: [0.34808039 0.62128115 0.03063847]
+
+Are loop domains preserved upon cohesin loss?
+True label: no
+Verdicts: {'SUP': 96, 'REF': 4}
+Mean: [0.24184553 0.73263357 0.0255209 ]
+
+Is Loss of function one of the cardinal signs of inflammation?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 16}
+Mean: [0.29097019 0.67418038 0.03484943]
+
+Does the association of PARP1 and CTCF follow a circadian rhythm?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 20}
+Mean: [0.34272683 0.61931406 0.0379591 ]
+
+Does erythromycin increase risk of hypertrophic pyloric stenosis?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 30}
+Mean: [0.41004193 0.52045257 0.0695055 ]
+
+Has the proteome of mice hippocampus been analysed?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.29552246 0.67712587 0.02735167]
+
+Was saracatinib being considered as a treatment for Alzheimer's disease in November 2017?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 30}
+Mean: [0.35416515 0.5947331  0.05110175]
+
+Are mouse chromosomes acrocentric?
+True label: yes
+Verdicts: {'SUP': 89, 'REF': 9}
+Mean: [0.25020541 0.69104017 0.05875442]
+
+Is overproduction of transthyretin is associated with amyloidosis associated neuropathy?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 18}
+Mean: [0.30549573 0.65508952 0.03941475]
+
+SGOT is an abbreviation for an enzyme other wise known as alanine amino transferase, yes or no?
+True label: no
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.21185625 0.75021731 0.03792645]
+
+Is patisiran currently (November 2017) in clinical phase II trials?
+True label: no
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.25958165 0.68947447 0.05094388]
+
+Is Solanezumab effective for Alzheimer's Disease?
+True label: no
+Verdicts: {'SUP': 71, 'REF': 28}
+Mean: [0.37718192 0.57119708 0.051621  ]
+
+Are organisms in the genus Morexella associated with sepsis?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.24254449 0.71774022 0.03971529]
+
+Are there mammalian promoters with distal enhancer functions?
+True label: yes
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.28171215 0.6967244  0.02156346]
+
+Is autosomal dominant inheritanced form of Osteogenesis imperfecta caused by mutations in the genes associated with collagen production?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 9}
+Mean: [0.22203212 0.70384987 0.07411801]
+
+Is Apremilast effective for Behcet’s syndrome?
+True label: yes
+Verdicts: {'SUP': 82, 'REF': 18}
+Mean: [0.29208737 0.65839402 0.04951861]
+
+Are splicing speckles associated with transcription?
+True label: no
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.2982948  0.68015611 0.02154909]
+
+Does Enzastaurin improve survival of glioblastoma patients?
+True label: no
+Verdicts: {'SUP': 53, 'REF': 44}
+Mean: [0.42781579 0.50101329 0.07117092]
+
+Is Tofacitinib effective for Ulcerative Colitis?
+True label: yes
+Verdicts: {'SUP': 59, 'REF': 41}
+Mean: [0.44160054 0.51260682 0.04579263]
+
+Is CREB a key memory protein?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.32827671 0.63710667 0.03461662]
+
+Is cilengitide effective for treatment of glioblastoma?
+True label: no
+Verdicts: {'SUP': 70, 'REF': 29}
+Mean: [0.34973136 0.60437387 0.04589477]
+
+Can multiple myeloma patients develop hyperviscosity syndrome?
+True label: yes
+Verdicts: {'SUP': 94, 'REF': 6}
+Mean: [0.21002865 0.74008391 0.04988744]
+
+Does the human lncRNA LINC-PINT promote tumorigenesis?
+True label: no
+Verdicts: {'SUP': 70, 'REF': 30}
+Mean: [0.41726165 0.53761177 0.04512658]
+
+Is LDB1-mediated enhancer looping dependent on cohesin?
+True label: no
+Verdicts: {'SUP': 90, 'REF': 10}
+Mean: [0.28798037 0.68768144 0.0243382 ]
+
+Is there any link between ERCC1-XPF and cohesin?
+True label: yes
+Verdicts: {'SUP': 76, 'REF': 22}
+Mean: [0.36253155 0.57440273 0.06306572]
+
+Does Evolocumab improve cognitive function?
+True label: no
+Verdicts: {'SUP': 68, 'REF': 31}
+Mean: [0.36506098 0.59019349 0.04474552]
+
+Can radius fracture cause carpal tunnel syndrome?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 19}
+Mean: [0.31700621 0.60086113 0.08213266]
+
+Can Logic Alignment Free (LAF) be used for bacterial genomes classification?
+True label: yes
+Verdicts: {'SUP': 87, 'REF': 13}
+Mean: [0.25884175 0.72122002 0.01993823]
+
+Is Marfan syndrome associated with chordal rupture?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 19}
+Mean: [0.28081592 0.66404199 0.05514209]
+
+Can canagliflozin cause euglycemic diabetic ketoacidosis?
+True label: yes
+Verdicts: {'SUP': 70, 'REF': 30}
+Mean: [0.39868108 0.55056228 0.05075664]
+
+Is there an association between Klinefelter syndrome and breast cancer?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 21}
+Mean: [0.34344349 0.59835638 0.05820013]
+
+Are the human bombesin receptors, GRPR and NMBR, frequently overexpressed G-protein-coupled-receptors by lung-cancers?
+True label: yes
+Verdicts: {'SUP': 67, 'REF': 33}
+Mean: [0.44829565 0.51916861 0.03253574]
+
+Is vorinostat effective for glioblastoma?
+True label: no
+Verdicts: {'SUP': 69, 'REF': 29}
+Mean: [0.352839   0.58963391 0.05752708]
+
+Is there any role of Dlx1 and Dlx2 transcription factors in cortical interneurons?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.31415626 0.65363735 0.03220638]
+
+Has ATF4 transcription factor been linked to cancer and neoplastic transformation?
+True label: yes
+Verdicts: {'SUP': 78, 'REF': 22}
+Mean: [0.3845612  0.58001787 0.03542094]
+
+Are patients with Sjogren syndrome at increased risk for lymphoma?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 22}
+Mean: [0.30195204 0.64472896 0.053319  ]
+
+Does prolactinoma increase osteoporosis risk?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 28}
+Mean: [0.37214041 0.54892233 0.07893726]
+
+Down's syndrome occurs when an individual has an extra copy or part of a copy of chromosome 21, yes or no?
+True label: yes
+Verdicts: {'SUP': 95, 'REF': 5}
+Mean: [0.21343082 0.74641548 0.0401537 ]
+
+Is creatinine assessment included in the MELD score?
+True label: yes
+Verdicts: {'SUP': 59, 'REF': 35}
+Mean: [0.38483463 0.50594503 0.10922034]
+
+Is celiac disease caused by gliadin-induced transglutaminase-2 (TG2)-dependent events ?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 21}
+Mean: [0.32403143 0.62565697 0.05031161]
+
+Does wheat belongs to the genus Avena, yes or no?
+True label: no
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.28616745 0.66410483 0.04972772]
+
+Does Uc.160 promote cancer?
+True label: no
+Verdicts: {'SUP': 71, 'REF': 29}
+Mean: [0.35946617 0.59596074 0.04457309]
+
+Can doxycycline cause photosensitivity?
+True label: yes
+Verdicts: {'SUP': 77, 'REF': 19}
+Mean: [0.29519425 0.6321033  0.07270245]
+
+Are paralog genes co-regulated?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.2671674  0.71369797 0.01913463]
+
+Is polyadenylation a process that stabilizes a protein by adding a string of Adenosine residues to the end of the molecule?
+True label: no
+Verdicts: {'SUP': 92, 'REF': 7}
+Mean: [0.26702443 0.69485382 0.03812175]
+
+Are stress granules membraneous?
+True label: no
+Verdicts: {'SUP': 88, 'REF': 11}
+Mean: [0.2456342  0.71148738 0.04287842]
+
+Is the consumption of chocolate associated with an increase in cardiovascular disease?
+True label: no
+Verdicts: {'SUP': 60, 'REF': 40}
+Mean: [0.4246106  0.53066887 0.04472052]
+
+Is the gene CDKN2A nevogenic?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 25}
+Mean: [0.3363067  0.62135949 0.04233381]
+
+Are there ways of joint Bayesian inference of risk variants?
+True label: yes
+Verdicts: {'SUP': 97, 'REF': 3}
+Mean: [0.20933402 0.77021617 0.0204498 ]
+
+Has intepirdine been evaluated in clinical trials? (November 2017)
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 15}
+Mean: [0.2729677  0.67921713 0.04781518]
+
+Is subacute sclerosing panencephalitis caused by the Measles vaccine?
+True label: no
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.24297243 0.70191983 0.05510774]
+
+Does armodafinil improve fatigue of glioma patients?
+True label: no
+Verdicts: {'SUP': 57, 'REF': 41}
+Mean: [0.46974903 0.47311285 0.05713812]
+
+Is pregabalin effective for sciatica?
+True label: no
+Verdicts: {'SUP': 64, 'REF': 33}
+Mean: [0.42537823 0.51810775 0.05651403]
+
+Can gas vesicles be detected by ultrasound?
+True label: yes
+Verdicts: {'SUP': 66, 'REF': 33}
+Mean: [0.39028955 0.55480871 0.05490174]
+
+Is Citrobacter rodentium pathogenic?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.30125743 0.66937377 0.0293688 ]
+
+Can CD55 deficiency cause thrombosis?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.28237557 0.66425514 0.05336929]
+
+Are sleep apnea and snoring associated with cardiac arrhythmias?
+True label: yes
+Verdicts: {'SUP': 66, 'REF': 33}
+Mean: [0.39142877 0.55776416 0.05080707]
+
+Are osteoclasts specialized in bone degradation?
+True label: yes
+Verdicts: {'SUP': 84, 'REF': 15}
+Mean: [0.30455945 0.63969914 0.0557414 ]
+
+Does temsirolimus improve survival of glioblastoma patients?
+True label: no
+Verdicts: {'SUP': 70, 'REF': 27}
+Mean: [0.36062509 0.57769852 0.06167639]
+
+Are there sex differences in the transcriptome of the mouse hippocampus?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.26621476 0.70235635 0.03142888]
+
+Does MC1R palmitoylation reduce pigmentation?
+True label: no
+Verdicts: {'SUP': 81, 'REF': 17}
+Mean: [0.29455868 0.6418637  0.06357762]
+
+A bite from the Lone Star Tick Amblyomma americanum, can cause the victim to become allergic to red meat, yes or no?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 25}
+Mean: [0.34845644 0.60002448 0.05151908]
+
+Is Rucaparib effective for ovarian cancer?
+True label: yes
+Verdicts: {'SUP': 69, 'REF': 31}
+Mean: [0.38727516 0.57095915 0.04176568]
+
+Does verubecestat activate BACE?
+True label: no
+Verdicts: {'SUP': 76, 'REF': 24}
+Mean: [0.32110174 0.63703799 0.04186028]
+
+Is Tocilizumab effective for Giant-Cell Arteritis?
+True label: yes
+Verdicts: {'SUP': 68, 'REF': 32}
+Mean: [0.41737766 0.53997629 0.04264604]
+
+Is there a link between nuclear position and DNA repair pathway choice?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 9}
+Mean: [0.26156333 0.70688163 0.03155503]
+
+Can non ubiquitinated Tomm20 promote mitophagy?
+True label: no
+Verdicts: {'SUP': 89, 'REF': 11}
+Mean: [0.25722066 0.71031648 0.03246286]
+
+Does SARM1 deletion cause neurodegeneration?
+True label: no
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.27238573 0.68836424 0.03925002]
+
+Is DNA polymerase θ involved in DNA repair?
+True label: yes
+Verdicts: {'SUP': 96, 'REF': 4}
+Mean: [0.23151661 0.72667762 0.04180577]
+
+Can nanoparticles be used for afterglow imaging?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 11}
+Mean: [0.30816562 0.66452423 0.02731015]
+
+Is there any role of interleukin-11 in cardiovascular fibrosis?
+True label: yes
+Verdicts: {'SUP': 81, 'REF': 19}
+Mean: [0.33318659 0.623638   0.04317541]
+
+Is there a disease or condition called Exploding Head Syndrome?
+True label: yes
+Verdicts: {'SUP': 86, 'REF': 14}
+Mean: [0.25565394 0.67241292 0.07193315]
+
+Is Enlimomab effective for stroke treatment?
+True label: no
+Verdicts: {'SUP': 60, 'REF': 39}
+Mean: [0.44625133 0.49597302 0.05777566]
+
+Are AAV vectors considered for the treatment of retinal dystrophies?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 21}
+Mean: [0.38954534 0.58813587 0.0223188 ]
+
+Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?
+True label: no
+Verdicts: {'SUP': 64, 'REF': 35}
+Mean: [0.42231774 0.52035777 0.0573245 ]
+
+Is human lysyl oxidase-like 2 a glycoprotein?
+True label: yes
+Verdicts: {'SUP': 75, 'REF': 24}
+Mean: [0.35608482 0.5965785  0.04733669]
+
+Can GDF15 be a biomarker for metformin treatment?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 25}
+Mean: [0.36531401 0.58179447 0.05289152]
+
+Has rituximab been considered as a treatment for chronic fatigues syndrome? (November 2017)
+True label: yes
+Verdicts: {'SUP': 64, 'REF': 36}
+Mean: [0.40671961 0.54561662 0.04766376]
+
+Does oncogene-induced DNA replication stress inhibit genomic instability?
+True label: no
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.33045102 0.62988831 0.03966067]
+
+Is the petrous bone used in ancient DNA sampling?
+True label: yes
+Verdicts: {'SUP': 88, 'REF': 11}
+Mean: [0.28095704 0.66988467 0.04915829]
+
+Is recursive splicing more common in short introns?
+True label: no
+Verdicts: {'SUP': 88, 'REF': 12}
+Mean: [0.30015538 0.67881707 0.02102755]
+
+Is Lysyl oxidase crosslinking collagen?
+True label: yes
+Verdicts: {'SUP': 83, 'REF': 17}
+Mean: [0.28803804 0.66447245 0.04748951]
+
+Is sternotomy closure done using either a sternal ZipFix™ implant  or conventional steel wire following cardiac surgery?
+True label: yes
+Verdicts: {'SUP': 73, 'REF': 26}
+Mean: [0.391931   0.55401121 0.0540578 ]
+
+Is transcription of eRNA bidirectional?
+True label: yes
+Verdicts: {'SUP': 91, 'REF': 8}
+Mean: [0.26522116 0.70313479 0.03164405]
+
+Is the protein pelota a ribosomal rescue factor?
+True label: yes
+Verdicts: {'SUP': 92, 'REF': 8}
+Mean: [0.25648231 0.71182972 0.03168797]
+
+Is CXCL7 a chemokine?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 20}
+Mean: [0.34185483 0.60556037 0.0525848 ]
+
+The TRPM2 gene is associated with development of spontaneous thromboembolism?
+True label: no
+Verdicts: {'SUP': 69, 'REF': 29}
+Mean: [0.355476   0.57656292 0.06796108]
+
+Is a mutation of the  ZIKV's membrane protein prM responsible for the microcephaly in new-born infants?
+True label: yes
+Verdicts: {'SUP': 74, 'REF': 26}
+Mean: [0.36773856 0.60172867 0.03053277]
+
+Is lumican a secreted protein?
+True label: yes
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.28951797 0.67275131 0.03773073]
+
+Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?
+True label: no
+Verdicts: {'SUP': 85, 'REF': 15}
+Mean: [0.29913333 0.66349523 0.03737144]
+
+Is p53 a transcription factor?
+True label: yes
+Verdicts: {'SUP': 79, 'REF': 21}
+Mean: [0.3659151  0.60692297 0.02716193]
+
+Is Cystatin D a biomarker?
+True label: yes
+Verdicts: {'SUP': 60, 'REF': 36}
+Mean: [0.4029423  0.51150833 0.08554936]
+

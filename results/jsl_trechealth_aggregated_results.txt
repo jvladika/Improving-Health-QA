@@ -1,0 +1,565 @@
+Can cranberries prevent urinary tract infections?
+True label: 0.0
+Verdicts: {'SUP': 70, 'NEI': 29, 'REF': 1}
+Mean: [0.66616026 0.30437695 0.02946279]
+
+Can acupuncture be effective for people with epilepsy?
+True label: 0.0
+Verdicts: {'SUP': 10, 'NEI': 90, 'REF': 0}
+Mean: [0.15012859 0.82505218 0.02481923]
+
+Can acupuncture prevent migraines?
+True label: 1.0
+Verdicts: {'SUP': 21, 'NEI': 78, 'REF': 1}
+Mean: [0.2280559  0.75394431 0.01799979]
+
+Is amygdalin or laetrile an effective cancer treatment?
+True label: 0.0
+Verdicts: {'SUP': 43, 'NEI': 50, 'REF': 7}
+Mean: [0.44353971 0.43610932 0.12035097]
+
+Can aspirin improve the lives of people with vascular dementia?
+True label: 0.0
+Verdicts: {'SUP': 44, 'NEI': 53, 'REF': 3}
+Mean: [0.41766603 0.5300903  0.05224366]
+
+Can melatonin be used to reduce jet lag?
+True label: 1.0
+Verdicts: {'SUP': 63, 'NEI': 35, 'REF': 2}
+Mean: [0.58709654 0.37254669 0.04035677]
+
+Can exercises relieve lower back pain?
+True label: 1.0
+Verdicts: {'SUP': 65, 'NEI': 35, 'REF': 0}
+Mean: [0.6492506 0.33623   0.0145194]
+
+Is male circumcision helpful in reducing heterosexual men's chances of getting HIV?
+True label: 1.0
+Verdicts: {'SUP': 88, 'NEI': 7, 'REF': 5}
+Mean: [0.80803092 0.11744695 0.07452213]
+
+Find documents that discuss using antidepressants for helping to manage or relieve lower back pain.
+True label: 0.0
+Verdicts: {'SUP': 9, 'NEI': 91, 'REF': 0}
+Mean: [0.14657453 0.82546545 0.02796001]
+
+Can magnesium prevent muscle cramps?
+True label: 0.0
+Verdicts: {'SUP': 46, 'NEI': 52, 'REF': 2}
+Mean: [0.44439608 0.48673204 0.06887189]
+
+Can lumbar supports treat or prevent lower back pain?
+True label: 0.0
+Verdicts: {'SUP': 22, 'NEI': 78, 'REF': 0}
+Mean: [0.29842651 0.67066883 0.03090466]
+
+Can electrical stimulation devices treat male urinary incontinence?
+True label: 0.0
+Verdicts: {'SUP': 34, 'NEI': 64, 'REF': 2}
+Mean: [0.39205572 0.56144641 0.04649787]
+
+Can honey offer relief from cough symptoms in children?
+True label: 1.0
+Verdicts: {'SUP': 40, 'NEI': 50, 'REF': 10}
+Mean: [0.41800566 0.43046353 0.15153082]
+
+Can steroids be used as a treatment for spinal cord injury?
+True label: 1.0
+Verdicts: {'SUP': 30, 'NEI': 62, 'REF': 8}
+Mean: [0.33683162 0.55102618 0.1121422 ]
+
+How effective is hydroxyzine (also known as Atarax) for treating generalized anxiety disorder?
+True label: 0.0
+Verdicts: {'SUP': 84, 'NEI': 10, 'REF': 6}
+Mean: [0.65223584 0.2355376  0.11222656]
+
+Can antibiotics be used as a treatment for wet cough (productive or chesty cough) in children?
+True label: 1.0
+Verdicts: {'SUP': 37, 'NEI': 51, 'REF': 12}
+Mean: [0.38889546 0.49320049 0.11790405]
+
+Can antibiotics be used as a treatment for whooping cough (pertussis)?
+True label: 1.0
+Verdicts: {'SUP': 49, 'NEI': 40, 'REF': 11}
+Mean: [0.47634227 0.35376625 0.16989149]
+
+Can antibiotics be use to treat community acquired pneumonia in children?
+True label: 1.0
+Verdicts: {'SUP': 54, 'NEI': 42, 'REF': 4}
+Mean: [0.5249549  0.39235022 0.08269488]
+
+Can ginkgo biloba treat tinnitus?
+True label: 0.0
+Verdicts: {'SUP': 41, 'NEI': 58, 'REF': 1}
+Mean: [0.45399528 0.49230957 0.05369516]
+
+Does hypnotherapy help people quit smoking?
+True label: 0.0
+Verdicts: {'SUP': 49, 'NEI': 45, 'REF': 6}
+Mean: [0.46031277 0.44332299 0.09636424]
+
+How effective are pelvic floor exercises for treating female incontinence?
+True label: 1.0
+Verdicts: {'SUP': 85, 'NEI': 12, 'REF': 3}
+Mean: [0.7919035 0.1662611 0.0418354]
+
+Are dental sealants helpful in preventing tooth decay?
+True label: 1.0
+Verdicts: {'SUP': 89, 'NEI': 10, 'REF': 1}
+Mean: [0.82781846 0.14401748 0.02816406]
+
+Can taking laxatives help with hemorrhoids?
+True label: 1.0
+Verdicts: {'SUP': 10, 'NEI': 88, 'REF': 2}
+Mean: [0.17671546 0.7849596  0.03832493]
+
+Is lumbar traction an effective treatment for lower back pain?
+True label: 0.0
+Verdicts: {'SUP': 77, 'NEI': 17, 'REF': 6}
+Mean: [0.64713956 0.25573847 0.09712196]
+
+Can muscle relaxants be used to relieve back pain?
+True label: 1.0
+Verdicts: {'SUP': 65, 'NEI': 33, 'REF': 2}
+Mean: [0.59510014 0.33573038 0.06916947]
+
+Can cinnamon help people with diabetes?
+True label: 0.0
+Verdicts: {'SUP': 73, 'NEI': 27, 'REF': 0}
+Mean: [0.66214155 0.30059259 0.03726587]
+
+Can benzos (benzodiazepines) help with alcohol withdrawal?
+True label: 1.0
+Verdicts: {'SUP': 66, 'NEI': 30, 'REF': 4}
+Mean: [0.63121158 0.31017623 0.05861219]
+
+Are probiotics an effective treatment for eczema?
+True label: 0.0
+Verdicts: {'SUP': 75, 'NEI': 20, 'REF': 5}
+Mean: [0.66123678 0.27341456 0.06534866]
+
+Can vitamins help manage epilepsy?
+True label: 0.0
+Verdicts: {'SUP': 23, 'NEI': 74, 'REF': 3}
+Mean: [0.24735051 0.69410143 0.05854807]
+
+Can caffeine help people with asthma?
+True label: 1.0
+Verdicts: {'SUP': 12, 'NEI': 83, 'REF': 5}
+Mean: [0.17497568 0.7217353  0.10328901]
+
+Can insoles treat back pain?
+True label: 0.0
+Verdicts: {'SUP': 3, 'NEI': 94, 'REF': 3}
+Mean: [0.07399601 0.8636128  0.06239118]
+
+Is sulfasalazine an effective treatment for rheumatoid arthritis?
+True label: 1.0
+Verdicts: {'SUP': 89, 'NEI': 4, 'REF': 7}
+Mean: [0.7629302  0.14737404 0.08969575]
+
+Is bariatric surgery effective for obesity?
+True label: 1.0
+Verdicts: {'SUP': 99, 'NEI': 0, 'REF': 1}
+Mean: [0.94702082 0.03689286 0.01608632]
+
+Can dehumidifiers be used to control asthma?
+True label: 0.0
+Verdicts: {'SUP': 2, 'NEI': 97, 'REF': 1}
+Mean: [0.07077372 0.90817007 0.02105622]
+
+Will wearing an ankle brace help heal achilles tendonitis?
+True label: 0.0
+Verdicts: {'SUP': 14, 'NEI': 84, 'REF': 2}
+Mean: [0.27170635 0.65203078 0.07626287]
+
+Is a tepid sponge bath a good way to reduce fever in children?
+True label: 0.0
+Verdicts: {'SUP': 88, 'NEI': 6, 'REF': 6}
+Mean: [0.76465486 0.13182321 0.10352193]
+
+Can folic acid help improve cognition and treat dementia?
+True label: 0.0
+Verdicts: {'SUP': 33, 'NEI': 66, 'REF': 1}
+Mean: [0.37683213 0.58075253 0.04241534]
+
+Does duct tape work for wart removal?
+True label: 0.0
+Verdicts: {'SUP': 17, 'NEI': 68, 'REF': 15}
+Mean: [0.27024042 0.52188215 0.20787743]
+
+Should I apply ice to a burn?
+True label: 0.0
+Verdicts: {'SUP': 11, 'NEI': 85, 'REF': 4}
+Mean: [0.17058781 0.75199593 0.07741626]
+
+Can vitamin b12 and sun exposure together help treat vitiligo?
+True label: 1.0
+Verdicts: {'SUP': 15, 'NEI': 83, 'REF': 2}
+Mean: [0.23319685 0.70462076 0.06218239]
+
+Does yoga improve the management of asthma?
+True label: 1.0
+Verdicts: {'SUP': 43, 'NEI': 35, 'REF': 22}
+Mean: [0.4338048  0.35478446 0.21141073]
+
+Is starving a fever effective?
+True label: 0.0
+Verdicts: {'SUP': 6, 'NEI': 85, 'REF': 9}
+Mean: [0.09510427 0.76362688 0.14126885]
+
+Does selenium help prevent cancer?
+True label: 0.0
+Verdicts: {'SUP': 92, 'NEI': 8, 'REF': 0}
+Mean: [0.82955938 0.15522539 0.01521524]
+
+Will taking birth control pills treat an ovarian cyst?
+True label: 0.0
+Verdicts: {'SUP': 8, 'NEI': 75, 'REF': 17}
+Mean: [0.16079796 0.6096504  0.22955164]
+
+Will taking zinc supplements improve pregnancy? 
+True label: 0.0
+Verdicts: {'SUP': 23, 'NEI': 74, 'REF': 3}
+Mean: [0.27783866 0.65482696 0.06733438]
+
+Can evening primrose oil help treat eczema?
+True label: 0.0
+Verdicts: {'SUP': 18, 'NEI': 78, 'REF': 4}
+Mean: [0.26687099 0.63616238 0.09696663]
+
+Do ankle braces help heal an ankle fracture? 
+True label: 1.0
+Verdicts: {'SUP': 38, 'NEI': 58, 'REF': 4}
+Mean: [0.41070808 0.50699873 0.08229319]
+
+Can applying vitamin E cream remove skin scars?
+True label: 0.0
+Verdicts: {'SUP': 2, 'NEI': 93, 'REF': 5}
+Mean: [0.05611133 0.8634742  0.08041447]
+
+Can magnesium help prevent migraine?
+True label: 1.0
+Verdicts: {'SUP': 43, 'NEI': 56, 'REF': 1}
+Mean: [0.39721488 0.52909634 0.07368878]
+
+Does exercise help manage diabetes?
+True label: 1.0
+Verdicts: {'SUP': 92, 'NEI': 8, 'REF': 0}
+Mean: [0.85215708 0.12777204 0.02007087]
+
+Can fermented milk help mitigate high blood pressure?
+True label: 0.0
+Verdicts: {'SUP': 29, 'NEI': 70, 'REF': 1}
+Mean: [0.31461032 0.65633543 0.02905425]
+
+Can dupixent treat eczema?
+True label: 1.0
+Verdicts: {'SUP': 29, 'NEI': 67, 'REF': 4}
+Mean: [0.29732462 0.60306371 0.09961167]
+
+Does yoga help reduce pain from arthritis and improve physical function?
+True label: 1.0
+Verdicts: {'SUP': 74, 'NEI': 23, 'REF': 3}
+Mean: [0.68632295 0.23830522 0.07537183]
+
+Can the drug Imitrex (sumatriptan) treat acute migraine attacks?
+True label: 1.0
+Verdicts: {'SUP': 74, 'NEI': 14, 'REF': 12}
+Mean: [0.70269176 0.14863405 0.1486742 ]
+
+Will buying a light therapy lamp help treat depression?
+True label: 1.0
+Verdicts: {'SUP': 16, 'NEI': 83, 'REF': 1}
+Mean: [0.22349772 0.72612369 0.05037859]
+
+Does Aleve relieve migraine headaches?
+True label: 0.0
+Verdicts: {'SUP': 62, 'NEI': 35, 'REF': 3}
+Mean: [0.57211059 0.36615814 0.06173127]
+
+Can I get rid of a pimple overnight by applying toothpaste?
+True label: 0.0
+Verdicts: {'SUP': 9, 'NEI': 85, 'REF': 6}
+Mean: [0.22899873 0.65771761 0.11328365]
+
+Can chondroitin help relieve the pain of osteoarthritis?
+True label: 1.0
+Verdicts: {'SUP': 36, 'NEI': 63, 'REF': 1}
+Mean: [0.38616599 0.54389684 0.06993717]
+
+Can omega-3 help manage hypertriglyceridemia?
+True label: 1.0
+Verdicts: {'SUP': 78, 'NEI': 22, 'REF': 0}
+Mean: [0.73885137 0.23331529 0.02783334]
+
+Can probiotics prevent respiratory infections?
+True label: 1.0
+Verdicts: {'SUP': 36, 'NEI': 64, 'REF': 0}
+Mean: [0.38306414 0.59809121 0.01884465]
+
+Can aromatherapy massage help manage rheumatoid arthritis?
+True label: 1.0
+Verdicts: {'SUP': 17, 'NEI': 77, 'REF': 6}
+Mean: [0.21408959 0.69290396 0.09300645]
+
+Does steam from a shower help croup?
+True label: 0.0
+Verdicts: {'SUP': 14, 'NEI': 73, 'REF': 13}
+Mean: [0.22317271 0.60710798 0.16971931]
+
+Can minoxidil treat hair loss?
+True label: 1.0
+Verdicts: {'SUP': 81, 'NEI': 17, 'REF': 2}
+Mean: [0.74160176 0.20663644 0.0517618 ]
+
+Is the Hoxsey treatment a good cure for cancer?
+True label: 0.0
+Verdicts: {'SUP': 40, 'NEI': 49, 'REF': 11}
+Mean: [0.40020165 0.4717843  0.12801405]
+
+Can l-theanine supplements reduce stress and anxiety?
+True label: 1.0
+Verdicts: {'SUP': 63, 'NEI': 37, 'REF': 0}
+Mean: [0.60458982 0.35238052 0.04302966]
+
+Does inhaling steam help treat common cold?
+True label: 0.0
+Verdicts: {'SUP': 32, 'NEI': 46, 'REF': 22}
+Mean: [0.38209667 0.39621996 0.22168336]
+
+Does exercise improve the symptoms of depression? 
+True label: 1.0
+Verdicts: {'SUP': 94, 'NEI': 6, 'REF': 0}
+Mean: [0.86170902 0.12164311 0.01664786]
+
+Can I remove a tick by covering it with Vaseline?
+True label: 0.0
+Verdicts: {'SUP': 20, 'NEI': 79, 'REF': 1}
+Mean: [0.31001237 0.64904885 0.04093878]
+
+Can applying mayonnaise help get rid of lice?
+True label: 0.0
+Verdicts: {'SUP': 7, 'NEI': 88, 'REF': 5}
+Mean: [0.16315878 0.73112395 0.10571728]
+
+Can eating dates help manage iron deficiency anemia?
+True label: 1.0
+Verdicts: {'SUP': 6, 'NEI': 93, 'REF': 1}
+Mean: [0.15533105 0.8100505  0.03461845]
+
+Will drinking vinegar dissolve a stuck fish bone?
+True label: 0.0
+Verdicts: {'SUP': 2, 'NEI': 89, 'REF': 9}
+Mean: [0.15358474 0.67528103 0.17113424]
+
+Can zinc help treat the common cold?
+True label: 1.0
+Verdicts: {'SUP': 37, 'NEI': 61, 'REF': 2}
+Mean: [0.38645046 0.55206206 0.06148749]
+
+Can copper bracelets reduce the pain of arthritis?
+True label: 0.0
+Verdicts: {'SUP': 12, 'NEI': 88, 'REF': 0}
+Mean: [0.1950425  0.78133604 0.02362145]
+
+Can fungal creams treat athlete's foot?
+True label: 1.0
+Verdicts: {'SUP': 26, 'NEI': 73, 'REF': 1}
+Mean: [0.31837254 0.63464312 0.04698433]
+
+Does cocoa butter help reduce pregnancy stretch marks?
+True label: 0.0
+Verdicts: {'SUP': 47, 'NEI': 49, 'REF': 4}
+Mean: [0.46676479 0.45818575 0.07504946]
+
+Can probiotics prevent diarrhea caused by antibiotics in children?
+True label: 1.0
+Verdicts: {'SUP': 51, 'NEI': 48, 'REF': 1}
+Mean: [0.47714108 0.47443655 0.04842237]
+
+Does Tylenol manage the symptoms of osteoarthritis?
+True label: 1.0
+Verdicts: {'SUP': 21, 'NEI': 58, 'REF': 21}
+Mean: [0.27451595 0.47689912 0.24858493]
+
+Can music therapy help manage depression?
+True label: 1.0
+Verdicts: {'SUP': 46, 'NEI': 54, 'REF': 0}
+Mean: [0.47189373 0.49110701 0.03699927]
+
+Can omega-3 treat borderline personality disorder in women?
+True label: 1.0
+Verdicts: {'SUP': 7, 'NEI': 92, 'REF': 1}
+Mean: [0.11712566 0.84918409 0.03369026]
+
+Can vitamin D supplements improve the management of asthma?
+True label: 1.0
+Verdicts: {'SUP': 29, 'NEI': 68, 'REF': 3}
+Mean: [0.32426022 0.62664891 0.04909088]
+
+Will feeding soy formula to my baby prevent the development of allergies?
+True label: 0.0
+Verdicts: {'SUP': 2, 'NEI': 89, 'REF': 9}
+Mean: [0.07425602 0.78956466 0.13617932]
+
+Does chitosan help lose body weight?
+True label: 0.0
+Verdicts: {'SUP': 41, 'NEI': 58, 'REF': 1}
+Mean: [0.44958159 0.49979131 0.0506271 ]
+
+Will at-home exercises manage hip osteoarthritis pain?
+True label: 1.0
+Verdicts: {'SUP': 14, 'NEI': 84, 'REF': 2}
+Mean: [0.24733459 0.68183116 0.07083425]
+
+Will taking antioxidant supplements treat fertility problems?
+True label: 0.0
+Verdicts: {'SUP': 25, 'NEI': 74, 'REF': 1}
+Mean: [0.28854611 0.67350492 0.03794897]
+
+Does celandine help with cancer?
+True label: 0.0
+Verdicts: {'SUP': 80, 'NEI': 19, 'REF': 1}
+Mean: [0.71505931 0.24757462 0.03736607]
+
+Can hemorrhoids be cured with leeches?
+True label: 0.0
+Verdicts: {'SUP': 6, 'NEI': 87, 'REF': 7}
+Mean: [0.09231351 0.81445901 0.09322748]
+
+Can hepatitis be cured with milk thistle?
+True label: 0.0
+Verdicts: {'SUP': 2, 'NEI': 96, 'REF': 2}
+Mean: [0.0841524  0.86691504 0.04893256]
+
+Does chamomile help with thrush?
+True label: 0.0
+Verdicts: {'SUP': 8, 'NEI': 92, 'REF': 0}
+Mean: [0.21185068 0.74961759 0.03853174]
+
+Does garlic help with thrush?
+True label: 0.0
+Verdicts: {'SUP': 22, 'NEI': 78, 'REF': 0}
+Mean: [0.30466403 0.67440185 0.02093411]
+
+Does aloe help for a runny nose?
+True label: 0.0
+Verdicts: {'SUP': 54, 'NEI': 43, 'REF': 3}
+Mean: [0.49258163 0.4480392  0.05937917]
+
+Does garlic help with toothache?
+True label: 0.0
+Verdicts: {'SUP': 21, 'NEI': 77, 'REF': 2}
+Mean: [0.33309841 0.60181394 0.06508764]
+
+Can pregnant women drink coffee?
+True label: 0.0
+Verdicts: {'SUP': 20, 'NEI': 77, 'REF': 3}
+Mean: [0.21345401 0.71859544 0.06795055]
+
+Can green tea reduce blood pressure?
+True label: 1.0
+Verdicts: {'SUP': 79, 'NEI': 18, 'REF': 3}
+Mean: [0.64132136 0.28576864 0.07290999]
+
+Does ginger help with cough?
+True label: 1.0
+Verdicts: {'SUP': 48, 'NEI': 51, 'REF': 1}
+Mean: [0.46569398 0.48776427 0.04654175]
+
+Does licorice root help with cough?
+True label: 1.0
+Verdicts: {'SUP': 78, 'NEI': 22, 'REF': 0}
+Mean: [0.65809504 0.30353558 0.03836938]
+
+Does echinacea boost immunity?
+True label: 1.0
+Verdicts: {'SUP': 88, 'NEI': 9, 'REF': 3}
+Mean: [0.8024055  0.15690266 0.04069185]
+
+Does honey boost immunity?
+True label: 1.0
+Verdicts: {'SUP': 61, 'NEI': 37, 'REF': 2}
+Mean: [0.61267263 0.33987599 0.04745138]
+
+Does garlic kill viruses?
+True label: 1.0
+Verdicts: {'SUP': 45, 'NEI': 50, 'REF': 5}
+Mean: [0.415433   0.47334064 0.11122637]
+
+Does onion kill viruses?
+True label: 1.0
+Verdicts: {'SUP': 17, 'NEI': 74, 'REF': 9}
+Mean: [0.1952083  0.67318924 0.13160247]
+
+Does smoking cause death?
+True label: 1.0
+Verdicts: {'SUP': 76, 'NEI': 22, 'REF': 2}
+Mean: [0.6618717  0.2502141  0.08791421]
+
+Does skin product cause aging?
+True label: 0.0
+Verdicts: {'SUP': 0, 'NEI': 74, 'REF': 26}
+Mean: [0.04825128 0.68279362 0.2689551 ]
+
+Does chemotherapy treat breast cancer?
+True label: 1.0
+Verdicts: {'SUP': 67, 'NEI': 32, 'REF': 1}
+Mean: [0.61172615 0.33561749 0.05265635]
+
+Does oral sex cause throat cancer?
+True label: 1.0
+Verdicts: {'SUP': 23, 'NEI': 76, 'REF': 1}
+Mean: [0.24954249 0.69896471 0.05149281]
+
+Does smokeless tobacco cause cancer?
+True label: 1.0
+Verdicts: {'SUP': 46, 'NEI': 53, 'REF': 1}
+Mean: [0.44027798 0.51913362 0.04058839]
+
+Does antidepressant cause depression?
+True label: 1.0
+Verdicts: {'SUP': 2, 'NEI': 57, 'REF': 41}
+Mean: [0.04033447 0.5164058  0.44325972]
+
+Does stress cause sickness?
+True label: 1.0
+Verdicts: {'SUP': 35, 'NEI': 65, 'REF': 0}
+Mean: [0.36709305 0.57770385 0.0552031 ]
+
+Does medication cause hair loss?
+True label: 1.0
+Verdicts: {'SUP': 29, 'NEI': 61, 'REF': 10}
+Mean: [0.29787263 0.56990051 0.13222685]
+
+Does milk cause acne?
+True label: 1.0
+Verdicts: {'SUP': 0, 'NEI': 83, 'REF': 17}
+Mean: [0.04372434 0.72399086 0.23228481]
+
+Does milk cause osteoporosis?
+True label: 0.0
+Verdicts: {'SUP': 1, 'NEI': 81, 'REF': 18}
+Mean: [0.0416793  0.75860047 0.19972024]
+
+Does nasal polyp cause nasal block?
+True label: 1.0
+Verdicts: {'SUP': 52, 'NEI': 47, 'REF': 1}
+Mean: [0.47641097 0.46403085 0.05955818]
+
+Does cialis treat enlarged prostrate?
+True label: 1.0
+Verdicts: {'SUP': 9, 'NEI': 91, 'REF': 0}
+Mean: [0.26256938 0.69605192 0.04137871]
+
+Does diet cause bad breathe?
+True label: 1.0
+Verdicts: {'SUP': 4, 'NEI': 95, 'REF': 1}
+Mean: [0.10099175 0.87149008 0.02751817]
+
+Does listeria cause miscarriage?
+True label: 1.0
+Verdicts: {'SUP': 62, 'NEI': 38, 'REF': 0}
+Mean: [0.51724863 0.42885896 0.05389241]
+
